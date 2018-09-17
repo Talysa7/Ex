@@ -1,0 +1,124 @@
+/*#3C0409 dark brown*/
+/*#8C2B07 brown*/
+/*#B64907 light brown*/
+/*#F87D06 orange*/
+
+h1,h2,h3,h4,h5,h6
+{
+	color: #F87D06;	
+	font-family:"Sunflower";	
+}
+a {
+	text-decoration: none;
+	font-size:16px;
+	color : #F87D06;	
+}
+a:hover {
+	text-decoration: none;
+	color : white;
+	font-weight: bold;
+}
+body
+{
+	text-align: center;
+	background-color : #3C0409;
+	font-size:16px;
+	font-family:"Sunflower";
+	color: #F87D06;
+	padding:4px;
+}
+table {	
+	border: 3px double #B64907;
+	background-color: #8C2B07;
+	font-family:"Sunflower";
+	font-size:16px;
+	margin: auto;
+}
+
+table input{	
+	color: #F87D06;
+	font-family:"Sunflower";
+}
+
+table input:focus {
+	font-family:"Sunflower";
+}
+
+textarea {
+	background-color: #8C2B07;
+	border: none;
+	color: #F87D06;	
+	font-family:"Sunflower";	
+}
+textarea:focus {
+	background-color: #3C0409;
+	border: none;
+	color: #F87D06;
+	font-family:"Sunflower";	
+}
+
+.input {
+	background-color: #8C2B07;
+	color:#F87D06;
+	border: none;
+	width: 150px;
+	border-bottom: 1.5px dotted #B64907;
+	font-family:"Sunflower";
+}
+.input:focus  {
+	background-color:#3C0409;
+	color:#F87D06;
+	border: none;
+    transition-duration: 0.4s;
+    font-family:"Sunflower";	
+}
+
+.inputbutton {
+	background-color: #3C0409; 
+	color: #F87D06;
+	border-radius:5px;
+	border: none;
+	font-size:12px;
+	font-weight: bold;
+	width: 80px;  
+	height: 25px;  
+ 	text-align: center;  
+    transition-duration: 0.4s;
+    font-family:"Sunflower";	
+}
+.inputbutton:hover {
+	background-color: #F87D06;
+	color:#3C0409;
+	border-radius:5px;
+	border:none;
+	font-size:12px;
+	font-weight: bold;
+	width: 80px;  
+	height: 25px;  
+ 	text-align: center;  
+    transition-duration: 0.4s;
+    font-family:"Sunflower";	
+}
+
+th {
+	font-size : 14px;
+	border : 1px dotted #B64907;	
+	margin : 0px;
+	padding : 3px;
+	height: 30px;
+	width: 100px;
+}
+td {
+	font-size : 14px;
+	border : 1px dotted #B64907;	
+	margin : 0px;
+	padding : 3px;
+	height: 30px;
+	width: 300px;
+}
+td pre {
+	font-family:"Sunflower";	
+}
+span {
+	font-size : 1.2em;	
+}
