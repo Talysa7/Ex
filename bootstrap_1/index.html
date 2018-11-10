@@ -1,0 +1,474 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/main.css" type="text/css">
+    <title>Bootstrap Study</title>
+</head>
+<body>
+    <!--Container-->
+    <h1 class="separator" id="container">container</h1>
+    <div class="container red text-center"> 
+        <h1>bootstrap</h1>
+        <h2>study</h2>
+        <p>max 1170px</p>
+    </div>
+    <div class="container-fluid yellow text-center">
+        <h1>container</h1>
+        <h2>container-fluid</h2>
+        <p>max width</p>
+    </div>
+    <h1 class="separator" id="grid_system">grid_system</h1>
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-12 red">
+                <h1>col-xl-12</h1>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-xl-6 yellow">
+                <h1>col-xl-6</h1>
+            </div>
+            <div class="col-xl-6 yellow">
+                <h1>col-xl-6</h1>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-2 bluegreen">
+                <h3>col-md-2</h3>
+            </div>
+            <div class="col-md-7 red">
+                <h3>col-md-7</h3>
+            </div>
+            <div class="col-md-3 green">
+                <h3>col-md-3</h3>
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-6 red">
+                <h1>col-xl-6</h1>
+            </div>
+            <div class="col-xl-6 red">
+                <h1>col-xl-6</h1>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6 yellow">
+                <h1>col-md-6</h1>
+            </div>
+            <div class="col-md-6 yellow">
+                <h1>col-md-6</h1>
+            </div>
+        </div>
+    </div>
+
+    <h1 class="separator" id="img">img</h1>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4">
+                <h1>img-rounded</h1>
+                <img src="img/dog_cat.jpg" class="img-fluid rounded" alt="dog_cat">
+            </div>
+            <div class="col-md-4">
+                <h1>rounded</h1>
+                <img src="img/dog.jpg" class="img-fluid rounded-circle" alt="dog">
+            </div>
+            <div class="col-md-4">
+                <h1>img-fluid</h1>
+                <img src="img/cat.jpg" class="img-fluid" alt="cat">
+            </div>
+        </div>
+    </div> 
+
+    <h1 class="separator" id="table">Table</h1>
+    <div class="container">
+        <h1 class="table">table</h1>
+        <table class="table">
+            <thead>
+                <th>이름</th>
+                <th>전화번호</th>
+                <th>이메일</th>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>박성용</td>
+                    <td>01043335000</td>
+                    <td>skys@gmail.com</td>
+                </tr>
+                <tr>
+                    <td>김철수</td>
+                    <td>0101243465</td>
+                    <td>chel@gmail.com</td>
+                </tr>
+                <tr>
+                    <td>김영희</td>
+                    <td>01021312312</td>
+                    <td>kyh@gmail.com</td>
+                </tr>
+            </tbody>
+        </table>
+        <table class="table table-striped">
+            <thead>
+                <th>이름</th>
+                <th>전화번호</th>
+                <th>이메일</th>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>박성용</td>
+                    <td>01043335000</td>
+                    <td>skys@gmail.com</td>
+                </tr>
+                <tr>
+                    <td>김철수</td>
+                    <td>0101243465</td>
+                    <td>chel@gmail.com</td>
+                </tr>
+                <tr>
+                    <td>김영희</td>
+                    <td>01021312312</td>
+                    <td>kyh@gmail.com</td>
+                </tr>
+            </tbody>
+        </table>
+        <table class="table table-hover">
+            <thead>
+                <th>이름</th>
+                <th>전화번호</th>
+                <th>이메일</th>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>박성용</td>
+                    <td>01043335000</td>
+                    <td>skys@gmail.com</td>
+                </tr>
+                <tr>
+                    <td>김철수</td>
+                    <td>0101243465</td>
+                    <td>chel@gmail.com</td>
+                </tr>
+                <tr>
+                    <td>김영희</td>
+                    <td>01021312312</td>
+                    <td>kyh@gmail.com</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <h1 class="separator" id="input">input</h1>
+    <div class="container">
+        <div class="form-group">
+            <label for="usr">ID:</label>
+            <input type="text" class="form-control" id="usr">
+        </div>
+        <div class="form-group">
+                <label for="pw">PW:</label>
+                <input type="password" class="form-control" id="pwd">
+        </div>
+        <div class="form-group">
+            <label for="comment">Content:</label>
+            <textarea name="" id="comment" cols="5" rows="5" class="form-control"></textarea>
+        </div>
+    </div>
+    <div class="container">
+        <h3>checkbox</h3>
+        <div class="form-check">
+            <label>
+                <input type="checkbox" class="form-check-input" value="">option1
+            </label>
+                    </div>
+        <div class="form-check">
+            <label>
+                <input type="checkbox" class="form-check-input" value="" checked>option2
+            </label>
+        </div>
+        <div class="form-check">
+            <label>
+                <input type="checkbox" class="form-check-input" value="" disabled>option3
+            </label>
+        </div>
+        <br>
+        <div class="form-check-inline">
+            <label>
+                <input type="checkbox" class="form-check-input" value="">option1
+            </label>
+        </div>
+        <div class="form-check-inline">
+            <label>
+                <input type="checkbox" class="form-check-input" value="">option2
+            </label>
+        </div>
+        <div class="form-check-inline">
+            <label>
+                <input type="checkbox" class="form-check-input" value="" disabled>option3
+            </label>
+        </div>
+        <h3>radio</h3>
+        <div class="radio">
+            <label><input type="radio" value="" name="optradio2" checked>option1</label>
+        </div>
+        <div class="radio">
+            <label><input type="radio" value="" name="optradio2">option2</label>
+        </div>
+        <div class="radio">
+            <label><input type="radio" value="" name="optradio2" disabled>option3</label>
+        </div>
+        <br>
+        <label class="radio-inline">
+            <input type="radio" value="" name="optradio1">option1
+        </label>
+        <label class="radio-inline">
+                <input type="radio" value="" name="optradio1">option2
+        </label>
+        <label class="radio-inline">
+                <input type="radio" value="" name="optradio1">option3
+        </label>
+        <h3>form</h3>
+
+        <form action="">
+            <div class="input-group">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">
+                        <i class="far fa-envelope-open"></i>E-MAIL
+                    </span>
+                </div>
+                <input type="text" id="email" name="email" class="form-control form-control-lg" placeholder="Please enter your e-mail">
+            </div>
+            <div class="input-group">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">
+                        <i class="fas fa-key"></i>PW
+                    </span>
+                </div>
+                <input type="password" id="password" name="password" class="form-control form-control-lg" placeholder="Please enter your password">
+            </div>
+        </form>
+        <form action="" method="get">
+            <div class="input-group">
+                <input type="text" class="form-control form-control-lg" placeholder="keyword...">
+                <div class="input-group-append">
+                    <button class="btn btn-default" type="submit">
+                        <i class="fas fa-search"></i>SEARCH
+                    </button>
+                </div>
+            </div>
+        </form>
+    </div>
+    <h1 class="separator" id="button">button</h1>
+    <div class="container">
+        <h3>Buttons</h3>
+        <button type="button" class="btn">Basic</button>
+        <button type="button" class="btn btn-default">Default</button>
+        <button type="button" class="btn btn-primary">Primary</button>
+        <button type="button" class="btn btn-success">Success</button>
+        <button type="button" class="btn btn-info">Info</button>
+        <button type="button" class="btn btn-warning">Warning</button>
+        <button type="button" class="btn btn-danger">Danger</button>
+        <button type="button" class="btn btn-link">Link</button>
+    </div>
+    <div class="container">
+            <h3>Tag</h3>
+            <a href="#btn" class="btn btn-primary">a href</a>
+            <input type="button" class="btn btn-primary" value="input">
+            <input type="submit" class="btn btn-primary" value="submit">
+    </div>
+    <div class="container">
+        <h3>Size</h3>
+        <button type="button" class="btn btn-primary btn-lg">Large</button>
+        <button type="button" class="btn btn-primary btn-md">Medium</button>
+        <button type="button" class="btn btn-primary btn-sm">Small</button>
+    </div>
+    <div class="container">
+        <h3>btn-block</h3>
+        <button type="button" class="btn btn-primary btn-block">Button</button>
+        <button type="button" class="btn btn-primary btn-block">Button</button>
+    </div>
+    <div class="container">
+        <h3>grid buttons</h3>
+        <div class="row">
+            <div class="col-md-6">
+                <button type="button" class="btn btn-primary btn-block btn-lg">Confirm</button>
+            </div>
+            <div class="col-md-6">
+                <button type="button" class="btn btn-danger btn-block btn-lg">Cancel</button>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <h3>Group</h3>
+        <button type="button" class="btn btn-info">CAT</button>
+        <button type="button" class="btn btn-successs">DOG</button>
+        <button type="button" class="btn btn-warning">BIRD</button>
+    </div>
+    <h1 class="separator" id="navigation">Navigation</h1>
+    <nav class="navbar navbar-expand-sm bg-primary navbar-dark">
+        <div class="container">
+        <a href="http://playdata.io" class="navbar-brand">
+            <img src="img/play_data_white.png" alt="logo">
+        </a>
+        <div class="collapse navbar-collapse justify-content-end">
+            <ul class="nav navbar-nav" id="top_navbar-nav">
+                <li class="nav-item"><a href="#" class="nav-link">Main</a></li>
+                <li class="nav-item"><a href="#container" class="nav-link">Container</a></li>
+                <li class="nav-item"><a href="#grid_system" class="nav-link">Grid System</a></li>
+                <li class="nav-item"><a href="#table" class="nav-link">Table</a></li>
+                <li class="nav-item"><a href="#image" class="nav-link">Image</a></li>
+                <li class="nav-item"><a href="#button" class="nav-link">Button</a></li>
+                <li class="nav-item"><a href="#navigation" class="nav-link">Navigation</a></li>
+                <li class="nav-item"><a href="#carousel" class="nav-link">Carousel</a></li>
+                <li class="nav-item"><a href="#modal" class="nav-link">Modal</a></li>
+            </ul>
+        </div>
+    </nav>
+    <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+        <div class="container">
+            <a href="http://playdata.io" class="navbar-brand">
+                navbar-expand-sm
+            </a>
+            <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#myNavbar">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse justify-content-end"  id="myNavbar">
+                <ul class="nav navbar-nav" id="top_navbar-nav">
+                    <li class="nav-item">
+                        <a href="" class="nav-link">Board</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="" class="nav-link">Gallery</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="" class="nav-link">Contact</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <nav class="navbar navbar-expand-xl bg-dark navbar-dark">
+            <div class="container">
+                <a href="http://playdata.io" class="navbar-brand">
+                    navbar-expand-xl
+                </a>
+                <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#myNavbar">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse justify-content-end" id="myNavbar">
+                    <ul class="nav navbar-nav" id="top_navbar-nav">
+                        <li class="nav-item">
+                            <a href="#" class="nav-link">Board</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="#" class="nav-link">Gallery</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="#" class="nav-link">Contact</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    <h1 class="separator" id="carousel">Carousel</h1>
+    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+        <ul class="carousel-indicators">
+            <li data-target="#myCarousel" data-slide-to="0"></li>
+            <li data-target="#myCarousel" data-slide-to="1"></li>
+            <li data-target="#myCarousel" data-slide-to="2"></li>
+        </ul>
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="img/cat_carousel.jpg" alt="cat">
+                <div class="carousel-caption">
+                    <h1>Cat</h1>
+                    <p>Miaw</p>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <img src="img/dog_carousel.jpg" alt="dog">
+                <div class="carousel-caption">
+                    <h1>Dog</h1>
+                    <p>BowWow</p>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <img src="img/dog_cat_carousel.jpg" alt="cat_dog">
+                <div class="carousel-caption">
+                    <h1>Dog and Cat</h1>
+                    <p>Play!</p>
+                </div>
+            </div>
+        </div>
+        <a href="#myCarousel" class="carousel-control-prev" data-slide="prev">
+            <span class="carousel-control-prev-icon"></span>
+        </a>
+        <a href="#myCarousel" class="carousel-control-next" data-slide="next">
+            <span class="carousel-control-next-icon"></span>
+        </a>
+    </div>
+    <h1 class="separator" id="modal">Modal</h1>
+    <div class="container">
+        <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Modal Button</button>
+    </div>
+    <div id="myModal" class="modal fade">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4 class="modal-title">Header</h4>
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                </div>
+                <div class="modal-body">
+                    <p>Body</p>
+                    <img src="img/dog.jpg" class="img-fluid" alt="dog">
+                </div>
+                <div class="modal-footer">
+                    <div class="col-md-6">
+                        <button type="button"class="btn btn-primary btn-block">Confirm</button>
+                    </div>
+                    <div class="col-md-6">
+                        <button type="button"class="btn btn-danger btn-block">Cancel</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <h1 class="separator" id="card">Card</h1>
+    <div class="container text-center">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="card">
+                    <img src="img/winter.jpg" alt="winter" class="card-img-top">
+                    <div class="card-body">
+                        <h3 class="card-title">Snowing winter!</h3>
+                        <p class="card-text">
+                            It's cold!
+                        </p>
+                        <a href="#" class="btn btn-primary btn-block">Read more...</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="card">
+                    <img src="img/summer.jpg" alt="summer" class="card-img-top">
+                    <div class="card-body">
+                        <h3 class="card-title">Sunny day</h3>
+                        <p class="card-text">
+                            Let's go for a walk.
+                        </p>
+                        <a href="#" class="btn btn-primary btn-block">Read more...</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
