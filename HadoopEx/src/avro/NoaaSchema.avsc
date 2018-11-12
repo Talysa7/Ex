@@ -1,0 +1,10 @@
+{
+	"type":"record",
+	"name":"WeatherRecord",
+	"doc":"A weather reading",
+	"fields":[
+		{"name":"year", "type":"string"},
+		{"name":"temp", "type":"int"},
+		{"name":"stationId", "type":["null", "string"], "default":"삐약"}
+	]
+}
