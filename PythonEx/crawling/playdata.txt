@@ -1,0 +1,2307 @@
+<!DOCTYPE html>
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html lang="ko-KR" prefix="og: http://ogp.me/ns#" class="no-js">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+	    <meta name="theme-color" content="#1ebbf0"/>	<link rel="profile" href="http://gmpg.org/xfn/11" />
+	<link rel="pingback" href="http://playdata.io/academy/xmlrpc.php" />
+            <script type="text/javascript">
+            if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+                var originalAddEventListener = EventTarget.prototype.addEventListener,
+                    oldWidth = window.innerWidth;
+
+                EventTarget.prototype.addEventListener = function (eventName, eventHandler, useCapture) {
+                    if (eventName === "resize") {
+                        originalAddEventListener.call(this, eventName, function (event) {
+                            if (oldWidth === window.innerWidth) {
+                                return;
+                            }
+                            else if (oldWidth !== window.innerWidth) {
+                                oldWidth = window.innerWidth;
+                            }
+                            if (eventHandler.handleEvent) {
+                                eventHandler.handleEvent.call(this, event);
+                            }
+                            else {
+                                eventHandler.call(this, event);
+                            };
+                        }, useCapture);
+                    }
+                    else {
+                        originalAddEventListener.call(this, eventName, eventHandler, useCapture);
+                    };
+                };
+            };
+        </script>
+		<title>빅데이터 플랫폼 및 정보시스템 전문가 양성과정 - 대한민국 최고의 IT 교육기관</title>
+<!-- Mangboard SEO Start -->
+<link rel="canonical" href="http://playdata.io/academy/jobsearch/bigdata_flatform26" />
+<meta property="og:url" content="http://playdata.io/academy/jobsearch/bigdata_flatform26" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="빅데이터 플랫폼 및 정보시스템 전문가 양성과정 - 대한민국 최고의 IT 교육기관" />
+<meta name="title" content="빅데이터 플랫폼 및 정보시스템 전문가 양성과정 - 대한민국 최고의 IT 교육기관" />
+<meta name="twitter:title" content="빅데이터 플랫폼 및 정보시스템 전문가 양성과정 - 대한민국 최고의 IT 교육기관" />
+<meta property="og:description" content="빅데이터 플랫폼 및 정보시스템 전문가 양성과정 - 대한민국 최고의 IT 교육기관" />
+<meta property="description" content="빅데이터 플랫폼 및 정보시스템 전문가 양성과정 - 대한민국 최고의 IT 교육기관" />
+<meta name="description" content="빅데이터 플랫폼 및 정보시스템 전문가 양성과정 - 대한민국 최고의 IT 교육기관" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="빅데이터 플랫폼 및 정보시스템 전문가 양성과정 - 대한민국 최고의 IT 교육기관" />
+<meta property="article:published_time" content="2018-09-18T14:42:17+09:00" />
+<meta property="article:modified_time" content="2018-11-28T14:33:04+09:00" />
+<meta property="og:updated_time" content="2018-11-28T14:33:04+09:00" />
+<meta property="og:locale" content="ko_KR" />
+<meta property="og:site_name" content="대한민국 최고의 IT 교육기관" />
+<!-- Mangboard SEO End -->
+
+<!-- Google Tag Manager for WordPress by DuracellTomi -->
+<script data-cfasync="false" type="text/javascript">//<![CDATA[
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];//]]>	
+</script>
+<!-- End Google Tag Manager for WordPress by DuracellTomi -->
+<!-- This site is optimized with the Yoast SEO plugin v8.0 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="플레이데이터 아카데미 | 취업교육과정 | 플레이데이터는 4차산업혁명을 선도할 프로그래머를 양성하는 것을 목표로 하는 최고의 IT 실무 교육기관입니다. 본 과정은 &#039;빅데이터 시각화 전문가 과정&#039;으로 Python, Java 기초 프로그래밍부터 SQL 활용, 빅데이터 분산처리를 위한 Hadoop&amp; Spark, 나아가 빅데이터를 수집·저장·처리·분석하는 법을 가르칩니다. 플레이데이터에서 교육 받고 빅데이터 전문가로의 길을 걸으세요."/>
+<link rel="canonical" href="http://playdata.io/academy/jobsearch/bigdata_flatform26" />
+<meta property="og:locale" content="ko_KR" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="빅데이터 플랫폼 및 정보시스템 전문가 양성과정 - 대한민국 최고의 IT 교육기관" />
+<meta property="og:description" content="플레이데이터 아카데미 | 취업교육과정 | 플레이데이터는 4차산업혁명을 선도할 프로그래머를 양성하는 것을 목표로 하는 최고의 IT 실무 교육기관입니다. 본 과정은 &#039;빅데이터 시각화 전문가 과정&#039;으로 Python, Java 기초 프로그래밍부터 SQL 활용, 빅데이터 분산처리를 위한 Hadoop&amp; Spark, 나아가 빅데이터를 수집·저장·처리·분석하는 법을 가르칩니다. 플레이데이터에서 교육 받고 빅데이터 전문가로의 길을 걸으세요." />
+<meta property="og:url" content="http://playdata.io/academy/jobsearch/bigdata_flatform26" />
+<meta property="og:site_name" content="대한민국 최고의 IT 교육기관" />
+<meta property="article:publisher" content="https://www.facebook.com/playdata.encore" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="플레이데이터 아카데미 | 취업교육과정 | 플레이데이터는 4차산업혁명을 선도할 프로그래머를 양성하는 것을 목표로 하는 최고의 IT 실무 교육기관입니다. 본 과정은 &#039;빅데이터 시각화 전문가 과정&#039;으로 Python, Java 기초 프로그래밍부터 SQL 활용, 빅데이터 분산처리를 위한 Hadoop&amp; Spark, 나아가 빅데이터를 수집·저장·처리·분석하는 법을 가르칩니다. 플레이데이터에서 교육 받고 빅데이터 전문가로의 길을 걸으세요." />
+<meta name="twitter:title" content="빅데이터 플랫폼 및 정보시스템 전문가 양성과정 - 대한민국 최고의 IT 교육기관" />
+<meta name="twitter:image" content="http://playdata.io/academy/wp-content/uploads/2018/09/체크.png" />
+<script type='application/ld+json'>{"@context":"https:\/\/schema.org","@type":"Organization","url":"http:\/\/playdata.io\/academy","sameAs":["https:\/\/www.facebook.com\/playdata.encore"],"@id":"http:\/\/playdata.io\/academy#organization","name":"playdata","logo":"http:\/\/playdata.cafe24.com\/academy\/wp-content\/uploads\/2018\/05\/playdata_400x100.png"}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="대한민국 최고의 IT 교육기관 &raquo; 피드" href="http://playdata.io/academy/feed" />
+<link rel="alternate" type="application/rss+xml" title="대한민국 최고의 IT 교육기관 &raquo; 댓글 피드" href="http://playdata.io/academy/comments/feed" />
+<link rel="alternate" type="text/calendar" title="대한민국 최고의 IT 교육기관 &raquo; iCal Feed" href="http://playdata.io/academy/events/?ical=1" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/playdata.io\/academy\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.8"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='plugins-widgets-latest-mb-basic-css-style-css'  href='http://playdata.io/academy/wp-content/plugins/mangboard/plugins/widgets/latest_mb_basic/css/style.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='assets-css-jcarousel-swipe-css'  href='http://playdata.io/academy/wp-content/plugins/mangboard/assets/css/jcarousel.swipe.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='assets-css-bootstrap3-grid-css'  href='http://playdata.io/academy/wp-content/plugins/mangboard/assets/css/bootstrap3-grid.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='assets-css-style-css'  href='http://playdata.io/academy/wp-content/plugins/mangboard/assets/css/style.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='plugins-popup-css-style-css'  href='http://playdata.io/academy/wp-content/plugins/mangboard/plugins/popup/css/style.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='plugins-user-css-style-css'  href='http://playdata.io/academy/wp-content/plugins/mangboard/plugins/user/css/style.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='http://playdata.io/academy/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.4.8' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<link rel='stylesheet' id='simcal-qtip-css'  href='http://playdata.io/academy/wp-content/plugins/google-calendar-events/assets/css/vendor/jquery.qtip.min.css?ver=3.1.19' type='text/css' media='all' />
+<link rel='stylesheet' id='simcal-default-calendar-grid-css'  href='http://playdata.io/academy/wp-content/plugins/google-calendar-events/assets/css/default-calendar-grid.min.css?ver=3.1.19' type='text/css' media='all' />
+<link rel='stylesheet' id='simcal-default-calendar-list-css'  href='http://playdata.io/academy/wp-content/plugins/google-calendar-events/assets/css/default-calendar-list.min.css?ver=3.1.19' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_front-css'  href='http://playdata.io/academy/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=5.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_custom_css-css'  href='//playdata.io/academy/wp-content/uploads/js_composer/custom.css?ver=5.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='dt-web-fonts-css'  href='//fonts.googleapis.com/css?family=Roboto%3A400%2C500%2C600%2C700&#038;ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='dt-main-css'  href='http://playdata.io/academy/wp-content/themes/dt-the7/css/main.min.css?ver=6.5.1.1' type='text/css' media='all' />
+<style id='dt-main-inline-css' type='text/css'>
+body #load {
+  display: block;
+  height: 100%;
+  overflow: hidden;
+  position: fixed;
+  width: 100%;
+  z-index: 9901;
+  opacity: 1;
+  visibility: visible;
+  -webkit-transition: all .35s ease-out;
+  transition: all .35s ease-out;
+}
+.load-wrap {
+  width: 100%;
+  height: 100%;
+  background-position: center center;
+  background-repeat: no-repeat;
+  text-align: center;
+}
+.load-wrap > svg {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%,-50%);
+  -webkit-transform: translate(-50%,-50%);
+  transform: translate(-50%,-50%);
+}
+#load {
+  background-color: #ffffff;
+}
+.uil-default rect:not(.bk) {
+  fill: rgba(51,51,51,0.3);
+}
+.uil-ring > path {
+  fill: rgba(51,51,51,0.3);
+}
+.ring-loader .circle {
+  fill: rgba(51,51,51,0.3);
+}
+.ring-loader .moving-circle {
+  fill: #333333;
+}
+.uil-hourglass .glass {
+  stroke: #333333;
+}
+.uil-hourglass .sand {
+  fill: rgba(51,51,51,0.3);
+}
+.spinner-loader .load-wrap {
+  background-image: url("data:image/svg+xml,%3Csvg width='75px' height='75px' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' preserveAspectRatio='xMidYMid' class='uil-default'%3E%3Crect x='0' y='0' width='100' height='100' fill='none' class='bk'%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='rgba%2851%2C51%2C51%2C0.3%29' transform='rotate(0 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='rgba%2851%2C51%2C51%2C0.3%29' transform='rotate(30 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.08333333333333333s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='rgba%2851%2C51%2C51%2C0.3%29' transform='rotate(60 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.16666666666666666s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='rgba%2851%2C51%2C51%2C0.3%29' transform='rotate(90 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.25s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='rgba%2851%2C51%2C51%2C0.3%29' transform='rotate(120 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.3333333333333333s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='rgba%2851%2C51%2C51%2C0.3%29' transform='rotate(150 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.4166666666666667s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='rgba%2851%2C51%2C51%2C0.3%29' transform='rotate(180 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.5s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='rgba%2851%2C51%2C51%2C0.3%29' transform='rotate(210 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.5833333333333334s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='rgba%2851%2C51%2C51%2C0.3%29' transform='rotate(240 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.6666666666666666s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='rgba%2851%2C51%2C51%2C0.3%29' transform='rotate(270 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.75s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='rgba%2851%2C51%2C51%2C0.3%29' transform='rotate(300 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.8333333333333334s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='rgba%2851%2C51%2C51%2C0.3%29' transform='rotate(330 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.9166666666666666s' repeatCount='indefinite'/%3E%3C/rect%3E%3C/svg%3E");
+}
+.ring-loader .load-wrap {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' width='72' height='72' fill='rgba%2851%2C51%2C51%2C0.3%29'%3E   %3Cpath opacity='.25' d='M16 0 A16 16 0 0 0 16 32 A16 16 0 0 0 16 0 M16 4 A12 12 0 0 1 16 28 A12 12 0 0 1 16 4'/%3E   %3Cpath d='M16 0 A16 16 0 0 1 32 16 L28 16 A12 12 0 0 0 16 4z'%3E     %3CanimateTransform attributeName='transform' type='rotate' from='0 16 16' to='360 16 16' dur='0.8s' repeatCount='indefinite' /%3E   %3C/path%3E %3C/svg%3E");
+}
+.hourglass-loader .load-wrap {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' width='72' height='72' fill='rgba%2851%2C51%2C51%2C0.3%29'%3E   %3Cpath transform='translate(2)' d='M0 12 V20 H4 V12z'%3E      %3Canimate attributeName='d' values='M0 12 V20 H4 V12z; M0 4 V28 H4 V4z; M0 12 V20 H4 V12z; M0 12 V20 H4 V12z' dur='1.2s' repeatCount='indefinite' begin='0' keytimes='0;.2;.5;1' keySplines='0.2 0.2 0.4 0.8;0.2 0.6 0.4 0.8;0.2 0.8 0.4 0.8' calcMode='spline'  /%3E   %3C/path%3E   %3Cpath transform='translate(8)' d='M0 12 V20 H4 V12z'%3E     %3Canimate attributeName='d' values='M0 12 V20 H4 V12z; M0 4 V28 H4 V4z; M0 12 V20 H4 V12z; M0 12 V20 H4 V12z' dur='1.2s' repeatCount='indefinite' begin='0.2' keytimes='0;.2;.5;1' keySplines='0.2 0.2 0.4 0.8;0.2 0.6 0.4 0.8;0.2 0.8 0.4 0.8' calcMode='spline'  /%3E   %3C/path%3E   %3Cpath transform='translate(14)' d='M0 12 V20 H4 V12z'%3E     %3Canimate attributeName='d' values='M0 12 V20 H4 V12z; M0 4 V28 H4 V4z; M0 12 V20 H4 V12z; M0 12 V20 H4 V12z' dur='1.2s' repeatCount='indefinite' begin='0.4' keytimes='0;.2;.5;1' keySplines='0.2 0.2 0.4 0.8;0.2 0.6 0.4 0.8;0.2 0.8 0.4 0.8' calcMode='spline' /%3E   %3C/path%3E   %3Cpath transform='translate(20)' d='M0 12 V20 H4 V12z'%3E     %3Canimate attributeName='d' values='M0 12 V20 H4 V12z; M0 4 V28 H4 V4z; M0 12 V20 H4 V12z; M0 12 V20 H4 V12z' dur='1.2s' repeatCount='indefinite' begin='0.6' keytimes='0;.2;.5;1' keySplines='0.2 0.2 0.4 0.8;0.2 0.6 0.4 0.8;0.2 0.8 0.4 0.8' calcMode='spline' /%3E   %3C/path%3E   %3Cpath transform='translate(26)' d='M0 12 V20 H4 V12z'%3E     %3Canimate attributeName='d' values='M0 12 V20 H4 V12z; M0 4 V28 H4 V4z; M0 12 V20 H4 V12z; M0 12 V20 H4 V12z' dur='1.2s' repeatCount='indefinite' begin='0.8' keytimes='0;.2;.5;1' keySplines='0.2 0.2 0.4 0.8;0.2 0.6 0.4 0.8;0.2 0.8 0.4 0.8' calcMode='spline' /%3E   %3C/path%3E %3C/svg%3E");
+}
+
+</style>
+<link rel='stylesheet' id='dt-awsome-fonts-back-css'  href='http://playdata.io/academy/wp-content/themes/dt-the7/fonts/FontAwesome/back-compat.min.css?ver=6.5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='dt-awsome-fonts-css'  href='http://playdata.io/academy/wp-content/themes/dt-the7/fonts/FontAwesome/css/fontawesome-all.min.css?ver=6.5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='dt-fontello-css'  href='http://playdata.io/academy/wp-content/themes/dt-the7/fonts/fontello/css/fontello.min.css?ver=6.5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='the7pt-static-css'  href='http://playdata.io/academy/wp-content/plugins/dt-the7-core/assets/css/post-type.min.css?ver=6.5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='dt-custom-css'  href='http://playdata.io/academy/wp-content/uploads/the7-css/custom.css?ver=14382527b6a6' type='text/css' media='all' />
+<link rel='stylesheet' id='dt-media-css'  href='http://playdata.io/academy/wp-content/uploads/the7-css/media.css?ver=14382527b6a6' type='text/css' media='all' />
+<link rel='stylesheet' id='the7pt.less-css'  href='http://playdata.io/academy/wp-content/uploads/the7-css/post-type-dynamic.css?ver=14382527b6a6' type='text/css' media='all' />
+<link rel='stylesheet' id='plugins-select2-css-select2-min-css'  href='http://playdata.io/academy/wp-content/plugins/mangboard/plugins/select2/css/select2.min.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href='http://playdata.io/academy/wp-content/themes/dt-the7-child/style.css?ver=6.5.1.1' type='text/css' media='all' />
+<script type="text/javascript">var mb_options = []; var mb_languages = []; var mb_categorys = ["","",""]; var mb_is_login = false; var mb_hybrid_app = ""; if(typeof(mb_urls)==="undefined"){var mb_urls = [];}; mb_options["device_type"]	= "desktop";mb_options["nonce"]			="mb_nonce_value=6db88bb3cc1782410d7c6154e252502c&mb_nonce_time=1543849807&wp_nonce_value=f85fdc2744";mb_options["page"]				="";mb_languages["btn_ok"]		= "확인";mb_languages["btn_cancel"]	= "취소";mb_urls["ajax_url"]				= "http://playdata.io/academy/wp-admin/admin-ajax.php";mb_urls["home"]					= "http://playdata.io/academy";mb_urls["slug"]					= "bigdata_flatform26";mb_urls["login"]					= "http://playdata.io/academy/user_login/?redirect_to=http%253A%252F%252Fplaydata.io%252Facademy%252Fjobsearch%252Fbigdata_flatform26";mb_urls["plugin"]				= "http://playdata.io/academy/wp-content/plugins/mangboard/";</script><script type="text/javascript">var shareData				= {"url":"","title":"","image":"","content":""};shareData["url"]			= "http://playdata.io/academy/jobsearch/bigdata_flatform26";shareData["title"]			= "빅데이터 플랫폼 및 정보시스템 전문가 양성과정 - 대한민국 최고의 IT 교육기관";shareData["image"]		= "";shareData["content"]	= "빅데이터 플랫폼 및 정보시스템 전문가 양성과정 - 대한민국 최고의 IT 교육기관";</script><script type="text/javascript">var kakaoJavascriptKey		= "8e87479907649b43d53459ae83ea6021";var bitlyApiId					= "";var bitlyApiKey				= "";</script><style type="text/css">.mb-hide-logout{display:none !important;}</style><script type='text/javascript' src='http://playdata.io/academy/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://playdata.io/academy/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://playdata.io/academy/wp-content/plugins/mangboard/assets/js/json2.js?ver=1.7.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mb_ajax_object = {"ajax_url":"http:\/\/playdata.io\/academy\/wp-admin\/admin-ajax.php","admin_page":"false"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://playdata.io/academy/wp-content/plugins/mangboard/assets/js/common.js?ver=1.7.1'></script>
+<script type='text/javascript' src='http://playdata.io/academy/wp-content/plugins/mangboard/assets/js/jcarousel.swipe.js?ver=1.7.1'></script>
+<script type='text/javascript' src='http://playdata.io/academy/wp-content/plugins/mangboard/assets/js/jquery.tipTip.min.js?ver=1.7.1'></script>
+<script type='text/javascript' src='http://playdata.io/academy/wp-content/plugins/mangboard/assets/js/jquery.number.min.js?ver=1.7.1'></script>
+<script type='text/javascript' src='http://playdata.io/academy/wp-content/plugins/mangboard/assets/js/jquery.jcarousel.min.js?ver=1.7.1'></script>
+<script type='text/javascript' src='http://playdata.io/academy/wp-content/plugins/mangboard/assets/js/jquery.touchSwipe.min.js?ver=1.7.1'></script>
+<script type='text/javascript' src='http://playdata.io/academy/wp-content/plugins/mangboard/plugins/popup/js/main.js?ver=1.7.1'></script>
+<script type='text/javascript' src='http://playdata.io/academy/wp-content/plugins/mangboard/plugins/datepicker/js/datepicker.js?ver=1.7.1'></script>
+<script type='text/javascript' src='http://playdata.io/academy/wp-content/plugins/mangboard/plugins/user/js/main.js?ver=1.7.1'></script>
+<script type='text/javascript' src='http://playdata.io/academy/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.4.8'></script>
+<script type='text/javascript' src='http://playdata.io/academy/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.4.8'></script>
+<script type='text/javascript' src='http://playdata.io/academy/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-form-move-tracker.js?ver=1.8.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var dtLocal = {"themeUrl":"http:\/\/playdata.io\/academy\/wp-content\/themes\/dt-the7","passText":"To view this protected post, enter the password below:","moreButtonText":{"loading":"Loading...","loadMore":"Load more"},"postID":"8023","ajaxurl":"http:\/\/playdata.io\/academy\/wp-admin\/admin-ajax.php","contactMessages":{"required":"One or more fields have an error. Please check and try again.","terms":"Please accept the privacy policy."},"ajaxNonce":"6d85c34cc9","pageData":{"type":"page","template":"page","layout":null},"themeSettings":{"smoothScroll":"off","lazyLoading":false,"accentColor":{"mode":"gradient","color":["#1ebbf0","#39dfaa"]},"desktopHeader":{"height":90},"floatingHeader":{"showAfter":94,"showMenu":false,"height":60,"logo":{"showLogo":true,"html":"","url":"http:\/\/playdata.io\/academy\/"}},"mobileHeader":{"firstSwitchPoint":990,"secondSwitchPoint":778,"firstSwitchPointHeight":90,"secondSwitchPointHeight":60},"stickyMobileHeaderFirstSwitch":{"logo":{"html":"<img class=\" preload-me\" src=\"http:\/\/playdata.io\/academy\/wp-content\/uploads\/2018\/04\/logo_380x116_1.png\" srcset=\"http:\/\/playdata.io\/academy\/wp-content\/uploads\/2018\/04\/logo_380x116_1.png 380w\" width=\"190\" height=\"58\"   sizes=\"190px\" alt=\"\ub300\ud55c\ubbfc\uad6d \ucd5c\uace0\uc758 IT \uad50\uc721\uae30\uad00\" \/>"}},"stickyMobileHeaderSecondSwitch":{"logo":{"html":"<img class=\" preload-me\" src=\"http:\/\/playdata.io\/academy\/wp-content\/uploads\/2018\/04\/logo_380x116_1.png\" srcset=\"http:\/\/playdata.io\/academy\/wp-content\/uploads\/2018\/04\/logo_380x116_1.png 380w\" width=\"190\" height=\"58\"   sizes=\"190px\" alt=\"\ub300\ud55c\ubbfc\uad6d \ucd5c\uace0\uc758 IT \uad50\uc721\uae30\uad00\" \/>"}},"content":{"textColor":"#85868c","headerColor":"#333333"},"stripes":{"stripe1":{"textColor":"#787d85","headerColor":"#3b3f4a"},"stripe2":{"textColor":"#8b9199","headerColor":"#ffffff"},"stripe3":{"textColor":"#ffffff","headerColor":"#ffffff"}}},"VCMobileScreenWidth":"768"};
+var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Tweet","pinterest":"Pin it","linkedin":"Share on Linkedin","whatsapp":"Share on Whatsapp","google":"Share on Google Plus","download":"Download image"},"overlayOpacity":"85"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://playdata.io/academy/wp-content/themes/dt-the7/js/above-the-fold.min.js?ver=6.5.1.1'></script>
+<script type='text/javascript' src='http://playdata.io/academy/wp-content/plugins/mangboard/plugins/select2/js/select2.full.min.js?ver=1.7.1'></script>
+<script type='text/javascript' src='http://playdata.io/academy/wp-content/plugins/mangboard/plugins/select2/js/main.js?ver=1.7.1'></script>
+<script type='text/javascript' src='//developers.kakao.com/sdk/js/kakao.min.js?ver=1.7.1'></script>
+<script type='text/javascript' src='http://playdata.io/academy/wp-content/plugins/mangboard/plugins/sociallogin/js/common.js?ver=1.7.1'></script>
+<script type='text/javascript' src='http://playdata.io/academy/wp-content/plugins/mangboard/plugins/sociallogin/js/kakao.link2.js?ver=1.7.1'></script>
+<link rel='https://api.w.org/' href='http://playdata.io/academy/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://playdata.io/academy/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://playdata.io/academy/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.8" />
+<link rel='shortlink' href='http://playdata.io/academy/?p=8023' />
+<link rel="alternate" type="application/json+oembed" href="http://playdata.io/academy/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fplaydata.io%2Facademy%2Fjobsearch%2Fbigdata_flatform26" />
+<link rel="alternate" type="text/xml+oembed" href="http://playdata.io/academy/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fplaydata.io%2Facademy%2Fjobsearch%2Fbigdata_flatform26&#038;format=xml" />
+
+
+<meta name="tec-api-version" content="v1"><meta name="tec-api-origin" content="http://playdata.io/academy"><link rel="https://theeventscalendar.com/" href="http://playdata.io/academy/wp-json/tribe/events/v1/" />
+<!-- Google Tag Manager for WordPress by DuracellTomi -->
+<script data-cfasync="false" type="text/javascript">//<![CDATA[
+	dataLayer.push({"pagePostType":"page","pagePostType2":"single-page","pagePostAuthor":"admin"});//]]>
+</script>
+<script data-cfasync="false">//<![CDATA[
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.'+'js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5RCW3NX');//]]>
+</script>
+<!-- End Google Tag Manager -->
+<!-- End Google Tag Manager for WordPress by DuracellTomi --><meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://playdata.io/academy/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><meta name="generator" content="Powered by Slider Revolution 5.4.8 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) { 
+	var $load = document.getElementById("load");
+	
+	var removeLoading = setTimeout(function() {
+		$load.className += " loader-removed";
+	}, 500);
+});
+</script>
+<link rel="icon" href="http://playdata.io/academy/wp-content/uploads/2018/04/KakaoTalk_20180406_160500501.png" type="image/png" sizes="16x16"/><link rel="icon" href="http://playdata.io/academy/wp-content/uploads/2018/04/KakaoTalk_20180406_160500501.png" type="image/png" sizes="32x32"/><script type="text/javascript">function setREVStartSize(e){									
+						try{ e.c=jQuery(e.c);var i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;
+							if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})					
+						}catch(d){console.log("Failure at Presize of Slider:"+d)}						
+					};</script>
+		<style type="text/css" id="wp-custom-css">
+			/*
+여기에 자신의 CSS를 추가할 수 있습니다.
+
+도움 아이콘을 클릭하면 더 알아볼 수 있습니다.
+*/
+@import url(https://cdn.rawgit.com/moonspam/NanumSquare/master/nanumsquare.css);		</style>
+	<style type="text/css" data-type="vc_custom-css">@import url(//fonts.googleapis.com/earlyaccess/notosanskr.css); 
+
+
+/* 전체 페이지 기본 글씨체 */
+*{
+ font-family: 'Noto Sans KR', sans-serif; 
+ letter-spacing:-0.07rem;
+ font-size: 16px;
+ color: #222222;
+ 
+ /* 텍스트 선명하게 하는 코드 */
+ /* Adjust font size */
+    font-size: 100%;
+    -webkit-text-size-adjust: 100%;
+    /* Font varient */
+    font-variant-ligatures: none;
+    -webkit-font-variant-ligatures: none;
+    /* Smoothing */
+    text-rendering: optimizeLegibility;
+    -moz-osx-font-smoothing: grayscale;
+    font-smoothing: antialiased;
+    -webkit-font-smoothing: antialiased;
+	text-shadow: rgba(0, 0, 0, .01) 0 0 1px;
+}
+
+.widget-info{
+    color: #85868c !important;
+}
+ 
+/* 마우스 드래그 했을때의 선택영역 색상 변경 */
+::selection{
+	background:#008996;
+	color:#fff;
+}
+::-moz-selection{
+	background:#008996;
+	color:#fff;
+}
+::-webkit-selection{
+	background:#008996;
+	color:#fff;
+} 
+
+/* 페이지에서 스크롤상태 표시하는 상단바 - Progress Indicator */
+.b3 #i-am-progress-indicator {
+  position:fixed;
+  top:0;
+  left:0;
+  height:15px;
+  background:#008996;
+  width:0%;
+  z-index: 500;
+}
+
+
+/* 칼데라폼 제출하기 버튼 */
+
+#fld_7908577_1{
+    width: 100%;
+}
+
+#fld_7908577_2{
+    width: 100%;
+}
+
+#fld_7908577_3{
+    width: 100%;
+}
+
+/*===============================================================*/
+/* 메인 이미지 위 공백 삭제 (워드프레스 기본 css 삭제) */
+#main{
+	padding: 0px !important;
+}
+
+/*공통*/
+/*텍스트 위치 지정 - 가운데*/
+.center{
+	text-align: center;
+}
+/*폰트크기 지정 - 제목*/
+h2{
+	font-size: 2.5rem;
+}
+
+/*폰트크기 지정 - 제목*/
+h2[id$="Title"]{
+    text-align: center;
+    font-weight: 600;
+}
+
+h2[id$="_SubTitle"]{
+    text-align: center;
+    font-weight: lighter;
+}
+h5{
+	padding: 0.625rem;
+	text-align: center;
+	font-size: 1.875rem;
+	line-height: 2.5rem;
+	font-weight: 500;
+}
+
+/*폰트크기 지정 - 기본 텍스트 22px*/
+.text{
+	padding: 0.625rem;
+	font-size: 1.375rem;
+	line-height: 2rem;
+	font-weight: 400;
+}
+
+.text strong{
+	font-size: 1.375rem;
+	line-height: 2rem;
+	font-weight: 500;
+}
+/*폰트색 지정 - 제목, 내용*/
+#white{
+	color: #ffffff;
+}
+
+
+/*텍스트 위치 지정 - 가운데*/
+.center{
+	text-align: center;
+}
+
+/* qna */
+/* qna - 제목 */
+.qnaTitle{
+	color: #001c58;
+	font-weight: 400;
+}
+
+.qnaTitle strong{
+	color: #001c58;
+	font-weight: 600;	
+}
+
+.introduceTitle strong{
+	color: #001c58;
+	font-weight: 600;	
+}
+
+/* qna - 첫번째 단락 */
+p[class$="Text1"]{
+	font-weight: 600;
+	font-size: 1.875rem;
+	line-height: 2.5rem;
+}
+
+p[class$="Text1-1"]{
+    padding-top: 1.5rem;
+	font-weight: 500;
+	font-size: 1.5rem;
+	line-height: 2.5rem;
+}
+
+/* qna - 답변*/
+.qnaText2{
+	font-weight: 500;
+	font-size: 1.375rem;
+	line-height: 2.125rem;
+}
+
+.qnaText2 strong{
+	font-weight: 700;
+}
+
+/*양성과정 소개*/
+.infoText{
+	font-weight: 700;
+	font-size: 1.875rem;
+	line-height: 2.5rem;
+	color: #333333;
+}
+/*양성과정 소개 끝*/
+
+/*6개월 올인*/
+/*6개월 올인 - 지원 내용*/
+.supportText1{
+	text-align: center;
+	font-weight: 600;
+	font-size: 1.875rem;
+	line-height: 2.625rem;
+}
+/*6개월 올인 - 지원 내용 상세*/
+.supportText2{
+	text-align: center;
+	font-weight: 400;
+	font-size: 1.125rem;
+	line-height: 1.625rem;
+}
+
+/*커리큘럼*/
+/* Mobile Device */
+	/*커리큘럼 - 표*/
+	#curriculum_m table{
+		width: 100%;
+		border-collapse: collapse;
+		border: 0;
+	}
+
+	#curriculum2_m table{
+		width: 100%;
+		border-collapse: collapse;
+		border: 0;
+	}
+
+	td{
+		border: 0px !important;
+	}
+
+	/*커리큘럼 - 표 - 왼쪽 칸*/
+	td[class$="Lecture_m"]{
+		width: 25%;
+		text-align: center;
+		font-size: 1.5rem;;
+		line-height: 1.875rem;
+		font-weight: 700;
+	}
+	/*커리큘럼 - 표 - "특강", "프로젝트", padding*/
+	.specialLecture_m,
+	.projectLecture_m{
+		background-color: #cccccc;
+		padding-top: 1.25rem !important;
+		padding-bottom: 1.25rem !important;
+	}
+	/*커리큘럼 - 표 - "정규커리큘럼"칸*/
+	.webLecture_m{
+		background-color: #bbbbbb;
+		padding-top: 1.25rem !important;
+		padding-bottom: 1.25rem !important;
+	}
+	/*커리큘럼 - 표 - "특강" 칸 배경*/
+	.specialLecture_m{
+		background-color: #cccccc;
+	}
+	/*커리큘럼 - 표 - "프로젝트"칸 배경 및 글자 색*/
+	.projectLecture_m{
+		background-color: #e2bbc7;
+		color: #ffffff;
+	}
+	/*커리큘럼 - 표 - 내용칸*/
+	#curriculum_m .contents_m{
+		padding-top: 1.25rem;
+		padding-left: 1.25rem;
+		background-color: #f1f1f1 !important;
+		vertical-align: top;
+	}
+	/*커리큘럼 - 표 - 내용칸*/
+	.contents_m p{
+		margin-bottom: 0rem;
+	}
+
+	/*커리큘럼 - 표 - 내용칸 - 제목*/
+	.textTitle_m{
+		padding: 0.625rem;
+		font-size: 1.5rem;
+		line-height: 2rem;
+		font-weight: 800;
+	}
+	/*커리큘럼 - 표 - 내용칸 - 제목밑줄*/
+    em{
+	    border-bottom: 3px solid #222222;
+	    line-height: 1.375rem;
+	}
+	.stepMargin_m{
+		padding-top: 0.625rem;
+	}
+	
+	/*커리큘럼 - 표 - 내용칸 - 내용*/
+	.text_m{
+		padding: 0.625rem;
+		font-size: 1.375rem;
+		line-height: 2rem;
+		font-weight: 500;
+	}
+
+	/*커리큘럼 - 표 - 내용칸 - 내용목록*/
+	.textList_m{
+		padding: 0.3125rem;
+		font-size: 1.25rem;
+		line-height: 1.625rem;
+		font-weight: 500;
+	}
+
+	/*커리큘럼 - 표 - 화살표*/
+	.arrow_m{
+		background-color: #e2ebdf;
+	}
+	/*커리큘럼 표 - 표안의 표 td*/
+	.width td{
+		width: 50%;
+		padding-left: 0.625rem;
+	}
+	/*커리큘럼 표 - 표안의 표 td - 내용*/
+	.text2{
+		padding: 0rem;
+		font-size: 1rem;
+		line-height: 1.5rem;
+		font-weight: 400;
+	}
+/* Mobile Device 끝 */
+
+/* Tablet & Device */
+@media all and (min-width:768px) { 
+	/*커리큘럼 - 표*/
+	#curriculum table{
+		width: 100%;
+		border-collapse: collapse;
+		border: 0;
+	}
+
+	#curriculum2 table{
+		width: 100%;
+		border-collapse: collapse;
+		border: 0;
+	}
+
+	td{
+		border: 0px !important;
+	}
+
+	/*커리큘럼 - 표 - 왼쪽 칸*/
+	td[class$="Lecture"]{
+		width: 25%;
+		text-align: center;
+		font-size: 1.875rem;
+		line-height: 2.5rem;
+		font-weight: 500;
+	}
+	/*커리큘럼 - 표 - "특강", "프로젝트"*/
+	.specialLecture,
+	.projectLecture{
+		padding-top: 1.563rem !important;
+		padding-bottom: 1.563rem !important;
+	}
+	/*커리큘럼 - 표 - "정규커리큘럼"칸*/
+	.webLecture{
+		background-color: #bbbbbb;
+		padding-top: 1.25rem !important;
+		padding-bottom: 1.25rem !important;
+	}
+	/*커리큘럼 - 표 - "특강" 칸 배경*/
+	.specialLecture{
+		background-color: #cccccc;
+	}
+	/*커리큘럼 - 표 - "프로젝트"칸 배경 및 글자 색*/
+	.projectLecture{
+		background-color: #e2bbc7;
+		color: #ffffff;
+	}
+	/*커리큘럼 - 표 - 내용칸*/
+	#curriculum .contents{
+		padding-top: 1.563rem;
+		padding-left: 3.125rem;
+		background-color: #f1f1f1 !important;
+		vertical-align: top;
+	}
+	/*커리큘럼 - 표 - 내용칸*/
+	.contents p{
+		margin-bottom: 0rem;
+	}
+
+	/*커리큘럼 - 표 - 내용칸 - 제목 왼쪽 화살표*/
+	#arrow-down{
+		width: 5%
+	}
+
+	/*커리큘럼 - 표 - 내용칸 - 제목*/
+	.sectionTitle{
+		padding: 0.625rem;
+		font-size: 1.5rem;
+		line-height: 2.25rem;
+		font-weight: 600;
+	}
+	/*커리큘럼 - 표 - 내용칸 - 제목 밑줄*/
+	u{
+		text-decoration: none;
+	    border-bottom: 3px solid #222222;
+	    margin-bottom: 0.3125rem;
+	}
+	.stepMargin{
+		padding-top: 0.625rem;
+		padding-bottom: 0.625rem;
+	}
+	/*커리큘럼 - 표 - 내용칸 - 내용*/
+	.text {
+		padding: 0.625rem;
+	}
+	/*커리큘럼 - 표 - 화살표*/
+	.arrow{
+		background-color: #e2ebdf;
+	}
+
+	/*커리큘럼 표 - 표안의 표 td*/
+	}
+	.width1{
+		margin-left: 1.25rem;
+		padding-left: 1.25rem;
+		width: 50%;
+	}
+	/*커리큘럼 표 - 표안의 표 td - 내용*/
+	.text2{
+		padding: 0rem;
+		font-size: 1.375rem;
+		line-height: 2rem;
+		font-weight: 400;
+	}
+}
+/*Tablet & Device 끝*/
+/*커리큘럼 끝*/
+
+/*강사소개*/
+/*강사소개 - "000선생님"*/
+#teacherName{
+    text-align: left;
+	font-size: 1.875rem;
+	line-height: 2rem;
+	font-weight: 500;
+}
+.sectionTitle_m{
+		padding: 0.625rem;
+		font-size: 1.5rem;
+		line-height: 1.875rem;
+		font-weight: 700;
+	}
+
+/*취업지원*/
+/*취업지원- 글박스 - 소제목*/
+.jobSupport_Title{
+	text-align: left;
+    line-height: 3.125rem;
+    font-weight: bolder;
+}
+
+
+/*취업지원 끝*/
+
+/*플레이 데이터의 약속*/
+/*플레이 데이터의 약속 - 제목*/
+#promise_Title{
+	color: #ffffff;
+}
+
+
+/*===============================================================*/
+
+/* caldera form css */
+button.caldera-forms-modal {
+    margin-top: 0px;
+    margin-bottom: 0px;
+  line-height: 1.8;
+  appearance: none;
+  box-shadow: none;
+  border: none;
+  border-radius: 0.2;
+  -webkit-transition: 0.3s; /* Safari */
+    transition: 0.3s;
+    height: 60px;
+    width: 100%;
+    color: #fff;
+    background-color: #28d0c0;
+    border: none;
+    border-radius: 7px;
+  font-size: 1.7em;
+  border-bottom: 4px solid #11c0b0;
+  border-right: 2px solid #11c0b0;
+  text-shadow: none;
+}
+
+
+button:hover {
+  background-color: #24b0a0;
+  border-bottom: 4px solid #11a090;
+  border-right: 2px solid #11a090;
+  text-shadow: none;
+}
+
+button:active {
+    background-color: #249080;
+    border-top: 4px solid #118070;
+    border-left: 2px solid #118070;
+    border-bottom: none;
+    border-right: none;
+    text-shadow: none;
+}
+
+
+
+
+/*칼데라폼 신청서 제목부분*/
+	/* Mobile Device */ 
+	.cal_title_pc {
+		display: none;
+	}
+
+	.cal_title_m{
+		visibility : visible;
+		text-align: center;
+	}
+
+	#cal_miniTitle_m{
+		background-color: #008996;
+		color: #ffffff;
+		font-size: 1.1rem;
+		line-height: 1.5rem;
+	}
+
+	#cal_ready_m{
+		font-size: 0.9rem;
+		line-height: 1.2rem;
+		color: #555555;
+	}
+
+	#cal_mainTitle_m{
+		font-weight: 700;
+		font-size: 1.8rem;
+		line-height: 2.5rem;
+		letter-spacing: -0.2rem;
+		color: #444444;
+	}
+
+	/* "상담신청서" */
+	#cal_subject_m{
+		margin-bottom: 4rem;
+		font-size: 18px;
+		line-height: 20px;
+		letter-spacing: -0.2rem;
+		color: #555555;
+	}	
+
+/*칼데라폼 신청서 제목부분*/
+	/* Tablet & Desktop Device */ 
+	@media all and (min-width:768px) { 
+		.cal_title_pc {
+			display: block;
+			text-align: center;			
+		}
+		
+		.cal_title_m {
+			display: none;
+		}
+		
+		#cal_miniTitle_pc{
+			background-color: #008996;
+			color: #ffffff;	
+		}
+
+		#cal_ready{
+			font-size: 1.5rem;
+			line-height: 1.7rem;
+			color: #555555;
+		}
+		
+		#cal_mainTitle_pc{
+			font-weight: 700;
+			font-size: 30px;
+			line-height: 40px;
+			letter-spacing: -0.2rem;
+			color: #444444;
+	}
+		/* "상담신청서" */
+		#cal_subject_pc{
+			margin-bottom: 4rem;
+			font-size: 24px;
+			line-height: 30px;
+			letter-spacing: -0.2rem;
+			color: #555555;
+		}		
+}
+/* 칼데라폼 제목부분 끝
+
+
+</style><style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1536659790460{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;background-color: #f1f1f1 !important;}.vc_custom_1536659790460{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;background-color: #f1f1f1 !important;}.vc_custom_1537163856004{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;background-color: #f1f1f1 !important;}.vc_custom_1543383031819{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;background-color: #f1f1f1 !important;}.vc_custom_1537164534262{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;background-color: #f1f1f1 !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1537164534262{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;background-color: #f1f1f1 !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1537164534262{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;background-color: #f1f1f1 !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1537164534262{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;background-color: #f1f1f1 !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1537164627716{padding-top: 0px !important;padding-bottom: 0px !important;background-color: #e7e7e7 !important;}.vc_custom_1537165240160{padding-top: 0px !important;padding-bottom: 0px !important;background-color: #e7e7e7 !important;}.vc_custom_1537346619102{padding-top: 0px !important;padding-bottom: 0px !important;background-color: #e2ebdf !important;}.vc_custom_1537346630813{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;background-color: #e2ebdf !important;}.vc_custom_1537346639880{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;background-color: #d3e1cf !important;}.vc_custom_1537346646300{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;background-color: #d3e1cf !important;}.vc_custom_1537346655659{padding-top: 0px !important;padding-bottom: 0px !important;background-color: #c4d8bf !important;}.vc_custom_1537346655659{padding-top: 0px !important;padding-bottom: 0px !important;background-color: #c4d8bf !important;}.vc_custom_1537347317883{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;background-color: #e2ebdf !important;}.vc_custom_1537347324480{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;background-color: #e2ebdf !important;}.vc_custom_1537347333202{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;background-color: #d3e1cf !important;}.vc_custom_1537347338983{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;background-color: #d3e1cf !important;}.vc_custom_1536908106146{margin-top: 0px !important;margin-right: 0px !important;margin-bottom: 0px !important;margin-left: 0px !important;border-right-width: 0px !important;padding-top: 0px !important;padding-right: 0px !important;padding-bottom: 0px !important;padding-left: 0px !important;background-color: #f3f3f3 !important;}.vc_custom_1537168240209{margin-top: 0px !important;margin-right: 0px !important;margin-bottom: 0px !important;margin-left: 0px !important;padding-top: 0px !important;padding-right: 0px !important;padding-bottom: 0px !important;padding-left: 0px !important;background-color: #f3f3f3 !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1537167043289{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;background-color: #f1f1f1 !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1537167082169{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;background-color: #f1f1f1 !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1537189350029{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1536905915045{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1537143298031{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1537326919005{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1543382848336{margin-right: 0px !important;margin-left: 0px !important;padding-right: 0px !important;padding-left: 0px !important;}.vc_custom_1543382856717{margin-right: 0px !important;margin-left: 0px !important;padding-right: 0px !important;padding-left: 0px !important;}.vc_custom_1543382955043{margin-right: 0px !important;margin-left: 0px !important;padding-top: 40px !important;padding-bottom: 40px !important;background-color: #007379 !important;}.vc_custom_1543382848336{margin-right: 0px !important;margin-left: 0px !important;padding-right: 0px !important;padding-left: 0px !important;}.vc_custom_1543382856717{margin-right: 0px !important;margin-left: 0px !important;padding-right: 0px !important;padding-left: 0px !important;}.vc_custom_1543383050254{margin-right: 0px !important;margin-left: 0px !important;padding-top: 40px !important;padding-bottom: 40px !important;background-color: #007379 !important;}.vc_custom_1537424551430{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1537346137481{padding-top: 3.125rem !important;padding-bottom: 0px !important;}.vc_custom_1537164558663{padding-top: 3.125rem !important;padding-bottom: 6.25rem !important;}.vc_custom_1537346103293{border-left-width: 0.625rem !important;padding-bottom: 0px !important;padding-left: 1.25rem !important;border-left-color: #001c58 !important;border-left-style: solid !important;}.vc_custom_1537424563039{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1537346137481{padding-top: 3.125rem !important;padding-bottom: 0px !important;}.vc_custom_1537164558663{padding-top: 3.125rem !important;padding-bottom: 6.25rem !important;}.vc_custom_1537424587838{border-left-width: 0.625rem !important;padding-bottom: 0px !important;padding-left: 1.25rem !important;border-left-color: #001c58 !important;border-left-style: solid !important;}.vc_custom_1537424613216{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1537164558663{padding-top: 3.125rem !important;padding-bottom: 6.25rem !important;}.vc_custom_1537257260190{border-left-width: 0.625rem !important;padding-left: 1.25rem !important;border-left-color: #001c58 !important;border-left-style: solid !important;}.vc_custom_1537424619115{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1537164558663{padding-top: 3.125rem !important;padding-bottom: 6.25rem !important;}.vc_custom_1537424650073{border-left-width: 0.625rem !important;padding-left: 1.25rem !important;border-left-color: #001c58 !important;border-left-style: solid !important;}.vc_custom_1537162977098{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1537165325073{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 6.25rem !important;padding-bottom: 0px !important;}.vc_custom_1537165375617{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 1.875rem !important;}.vc_custom_1537257300584{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0.625rem !important;padding-bottom: 0.625rem !important;}.vc_custom_1536891185168{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 2.5rem !important;padding-bottom: 2.5rem !important;}.vc_custom_1536689507413{margin-top: 0px !important;margin-right: 0px !important;margin-bottom: 0px !important;margin-left: 0px !important;padding-top: 0px !important;padding-right: 0px !important;padding-bottom: 0px !important;padding-left: 0px !important;}.vc_custom_1536689514245{margin-top: 0px !important;margin-right: 0px !important;margin-bottom: 0px !important;margin-left: 0px !important;padding-top: 0px !important;padding-right: 0px !important;padding-bottom: 0px !important;padding-left: 0px !important;}.vc_custom_1536689289824{margin-top: 0.625rem !important;margin-right: 0.625rem !important;margin-bottom: 0.625rem !important;margin-left: 0.625rem !important;border-top-width: 1px !important;border-right-width: 1px !important;border-bottom-width: 1px !important;border-left-width: 1px !important;padding-top: 3.125rem !important;padding-bottom: 3.125rem !important;background-color: #ffffff !important;border-left-color: #cccccc !important;border-left-style: solid !important;border-right-color: #cccccc !important;border-right-style: solid !important;border-top-color: #cccccc !important;border-top-style: solid !important;border-bottom-color: #cccccc !important;border-bottom-style: solid !important;border-radius: 20px !important;}.vc_custom_1536689297841{margin-top: 0.625rem !important;margin-right: 0.625rem !important;margin-bottom: 0.625rem !important;margin-left: 0.625rem !important;border-top-width: 1px !important;border-right-width: 1px !important;border-bottom-width: 1px !important;border-left-width: 1px !important;padding-top: 3.125rem !important;padding-bottom: 3.125rem !important;background-color: #ffffff !important;border-left-color: #cccccc !important;border-left-style: solid !important;border-right-color: #cccccc !important;border-right-style: solid !important;border-top-color: #cccccc !important;border-top-style: solid !important;border-bottom-color: #cccccc !important;border-bottom-style: solid !important;border-radius: 20px !important;}.vc_custom_1536689522952{margin-top: 0px !important;margin-right: 0px !important;margin-bottom: 0px !important;margin-left: 0px !important;padding-top: 0px !important;padding-right: 0px !important;padding-bottom: 0px !important;padding-left: 0px !important;}.vc_custom_1536689531703{margin-top: 0px !important;margin-right: 0px !important;margin-left: 0px !important;border-bottom-width: 0px !important;padding-top: 0px !important;padding-right: 0px !important;padding-bottom: 0px !important;padding-left: 0px !important;}.vc_custom_1536689316000{margin-top: 0.625rem !important;margin-right: 0.625rem !important;margin-bottom: 0.625rem !important;margin-left: 0.625rem !important;border-top-width: 1px !important;border-right-width: 1px !important;border-bottom-width: 1px !important;border-left-width: 1px !important;padding-top: 3.125rem !important;padding-bottom: 3.125rem !important;background-color: #ffffff !important;border-left-color: #cccccc !important;border-left-style: solid !important;border-right-color: #cccccc !important;border-right-style: solid !important;border-top-color: #cccccc !important;border-top-style: solid !important;border-bottom-color: #cccccc !important;border-bottom-style: solid !important;border-radius: 20px !important;}.vc_custom_1536689804089{margin-top: 0.625rem !important;margin-right: 0.625rem !important;margin-bottom: 0.625rem !important;margin-left: 0.625rem !important;border-top-width: 1px !important;border-right-width: 1px !important;border-bottom-width: 1px !important;border-left-width: 1px !important;padding-top: 1.56rem !important;padding-bottom: 1rem !important;background-color: #ffffff !important;border-left-color: #cccccc !important;border-left-style: solid !important;border-right-color: #cccccc !important;border-right-style: solid !important;border-top-color: #cccccc !important;border-top-style: solid !important;border-bottom-color: #cccccc !important;border-bottom-style: solid !important;border-radius: 20px !important;}.vc_custom_1537162988564{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1537165231082{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 3.125rem !important;padding-bottom: 0px !important;}.vc_custom_1537165405013{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1537422671050{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0.625rem !important;padding-bottom: 0.625rem !important;}.vc_custom_1537189042931{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 2.5rem !important;padding-bottom: 2.5rem !important;}.vc_custom_1536689507413{margin-top: 0px !important;margin-right: 0px !important;margin-bottom: 0px !important;margin-left: 0px !important;padding-top: 0px !important;padding-right: 0px !important;padding-bottom: 0px !important;padding-left: 0px !important;}.vc_custom_1536689514245{margin-top: 0px !important;margin-right: 0px !important;margin-bottom: 0px !important;margin-left: 0px !important;padding-top: 0px !important;padding-right: 0px !important;padding-bottom: 0px !important;padding-left: 0px !important;}.vc_custom_1536689289824{margin-top: 0.625rem !important;margin-right: 0.625rem !important;margin-bottom: 0.625rem !important;margin-left: 0.625rem !important;border-top-width: 1px !important;border-right-width: 1px !important;border-bottom-width: 1px !important;border-left-width: 1px !important;padding-top: 3.125rem !important;padding-bottom: 3.125rem !important;background-color: #ffffff !important;border-left-color: #cccccc !important;border-left-style: solid !important;border-right-color: #cccccc !important;border-right-style: solid !important;border-top-color: #cccccc !important;border-top-style: solid !important;border-bottom-color: #cccccc !important;border-bottom-style: solid !important;border-radius: 20px !important;}.vc_custom_1536689297841{margin-top: 0.625rem !important;margin-right: 0.625rem !important;margin-bottom: 0.625rem !important;margin-left: 0.625rem !important;border-top-width: 1px !important;border-right-width: 1px !important;border-bottom-width: 1px !important;border-left-width: 1px !important;padding-top: 3.125rem !important;padding-bottom: 3.125rem !important;background-color: #ffffff !important;border-left-color: #cccccc !important;border-left-style: solid !important;border-right-color: #cccccc !important;border-right-style: solid !important;border-top-color: #cccccc !important;border-top-style: solid !important;border-bottom-color: #cccccc !important;border-bottom-style: solid !important;border-radius: 20px !important;}.vc_custom_1536689522952{margin-top: 0px !important;margin-right: 0px !important;margin-bottom: 0px !important;margin-left: 0px !important;padding-top: 0px !important;padding-right: 0px !important;padding-bottom: 0px !important;padding-left: 0px !important;}.vc_custom_1536689531703{margin-top: 0px !important;margin-right: 0px !important;margin-left: 0px !important;border-bottom-width: 0px !important;padding-top: 0px !important;padding-right: 0px !important;padding-bottom: 0px !important;padding-left: 0px !important;}.vc_custom_1537189054491{margin-top: 0.625rem !important;margin-right: 0.625rem !important;margin-bottom: 0.625rem !important;margin-left: 0.625rem !important;border-top-width: 1px !important;border-right-width: 1px !important;border-bottom-width: 1px !important;border-left-width: 1px !important;padding-top: 3.125rem !important;padding-bottom: 3.125rem !important;background-color: #ffffff !important;border-left-color: #cccccc !important;border-left-style: solid !important;border-right-color: #cccccc !important;border-right-style: solid !important;border-top-color: #cccccc !important;border-top-style: solid !important;border-bottom-color: #cccccc !important;border-bottom-style: solid !important;border-radius: 20px !important;}.vc_custom_1537190600040{margin-top: 0.625rem !important;margin-right: 0.625rem !important;margin-bottom: 0.625rem !important;margin-left: 0.625rem !important;border-top-width: 1px !important;border-right-width: 1px !important;border-bottom-width: 1px !important;border-left-width: 1px !important;padding-top: 1.56rem !important;padding-bottom: 1rem !important;background-color: #ffffff !important;border-left-color: #cccccc !important;border-left-style: solid !important;border-right-color: #cccccc !important;border-right-style: solid !important;border-top-color: #cccccc !important;border-top-style: solid !important;border-bottom-color: #cccccc !important;border-bottom-style: solid !important;border-radius: 20px !important;}.vc_custom_1537163365814{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1537164759068{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 6.25rem !important;padding-bottom: 0px !important;}.vc_custom_1537164781558{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0.625rem !important;padding-bottom: 6.25rem !important;}.vc_custom_1536891380591{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0.625rem !important;padding-bottom: 0.625rem !important;}.vc_custom_1537318942136{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 2.5rem !important;}.vc_custom_1539673290386{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1537167739019{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1537167744775{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 3.125rem !important;padding-bottom: 0px !important;}.vc_custom_1537168017606{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0.625rem !important;padding-bottom: 3.125rem !important;}.vc_custom_1537170275359{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0.625rem !important;padding-bottom: 0.625rem !important;}.vc_custom_1537318929388{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 2.5rem !important;padding-bottom: 2.5rem !important;}.vc_custom_1539673316829{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1537163415300{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1537165029487{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 6.25rem !important;padding-bottom: 3.125rem !important;}.vc_custom_1537165033797{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 6.25rem !important;}.vc_custom_1537189172033{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1540452853702{border-left-width: 6px !important;padding-left: 15px !important;border-left-color: #b4cbab !important;border-left-style: solid !important;}.vc_custom_1540452738276{border-left-width: 6px !important;padding-left: 15px !important;border-left-color: #b4cbab !important;border-left-style: solid !important;}.vc_custom_1537163420982{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1537165287651{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 3.125rem !important;padding-bottom: 3.125rem !important;}.vc_custom_1537165067028{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 3.125rem !important;}.vc_custom_1537189533507{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1540453449105{border-left-width: 6px !important;padding-left: 15px !important;border-left-color: #b4cbab !important;border-left-style: solid !important;}.vc_custom_1540452751085{border-left-width: 6px !important;padding-left: 15px !important;border-left-color: #b4cbab !important;border-left-style: solid !important;}.vc_custom_1537425895796{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1537165084285{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 6.25rem !important;padding-bottom: 3.125rem !important;}.vc_custom_1537347301520{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-right: 1.875rem !important;padding-bottom: 0px !important;padding-left: 1.875rem !important;background: #c4d8bf url(http://playdata.io/academy/wp-content/uploads/2018/09/선생님배경.png?id=7638) !important;}.vc_custom_1537347306166{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-right: 1.875rem !important;padding-bottom: 3.125rem !important;padding-left: 1.875rem !important;background: #c4d8bf url(http://playdata.io/academy/wp-content/uploads/2018/09/선생님배경.png?id=7638) !important;}.vc_custom_1537345716312{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-right: 1.875rem !important;padding-bottom: 3.125rem !important;padding-left: 1.875rem !important;}.vc_custom_1536891583032{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1537257340382{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1537347279363{margin-top: 0.3125rem !important;margin-right: 0.3125rem !important;margin-bottom: 0.3125rem !important;margin-left: 0.3125rem !important;background-color: #e7d5d4 !important;border-radius: 30px !important;}.vc_custom_1537347284001{margin-top: 0.3125rem !important;margin-right: 0.3125rem !important;margin-bottom: 0.3125rem !important;margin-left: 0.3125rem !important;background-color: #e7d5d4 !important;border-radius: 30px !important;}.vc_custom_1537425857511{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1537345218757{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1537345866368{margin-top: 0px !important;margin-right: 0px !important;margin-bottom: 0px !important;margin-left: 0px !important;padding-top: 0px !important;padding-right: 0px !important;padding-bottom: 0px !important;padding-left: 0px !important;}.vc_custom_1537425412248{margin-top: 0px !important;margin-right: 0px !important;margin-bottom: 0px !important;margin-left: 0px !important;padding-top: 0px !important;padding-right: 0px !important;padding-bottom: 0px !important;padding-left: 0px !important;}.vc_custom_1537425887547{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1537165084285{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 6.25rem !important;padding-bottom: 3.125rem !important;}.vc_custom_1537347301520{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-right: 1.875rem !important;padding-bottom: 0px !important;padding-left: 1.875rem !important;background: #c4d8bf url(http://playdata.io/academy/wp-content/uploads/2018/09/선생님배경.png?id=7638) !important;}.vc_custom_1537347306166{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-right: 1.875rem !important;padding-bottom: 3.125rem !important;padding-left: 1.875rem !important;background: #c4d8bf url(http://playdata.io/academy/wp-content/uploads/2018/09/선생님배경.png?id=7638) !important;}.vc_custom_1537345716312{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-right: 1.875rem !important;padding-bottom: 3.125rem !important;padding-left: 1.875rem !important;}.vc_custom_1536891583032{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1537257340382{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1537347279363{margin-top: 0.3125rem !important;margin-right: 0.3125rem !important;margin-bottom: 0.3125rem !important;margin-left: 0.3125rem !important;background-color: #e7d5d4 !important;border-radius: 30px !important;}.vc_custom_1537347284001{margin-top: 0.3125rem !important;margin-right: 0.3125rem !important;margin-bottom: 0.3125rem !important;margin-left: 0.3125rem !important;background-color: #e7d5d4 !important;border-radius: 30px !important;}.vc_custom_1537426066253{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1537345218757{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1537425914674{margin-top: 0px !important;margin-right: 0px !important;margin-bottom: 0px !important;margin-left: 0px !important;padding-top: 0px !important;padding-right: 0px !important;padding-bottom: 0px !important;padding-left: 0px !important;}.vc_custom_1537425412248{margin-top: 0px !important;margin-right: 0px !important;margin-bottom: 0px !important;margin-left: 0px !important;padding-top: 0px !important;padding-right: 0px !important;padding-bottom: 0px !important;padding-left: 0px !important;}.vc_custom_1537163527320{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1537168135140{margin-top: 6.25rem !important;margin-bottom: 0px !important;padding-top: 1.25rem !important;padding-bottom: 1.25rem !important;}.vc_custom_1537168140736{margin-bottom: 6.25rem !important;padding-top: 1.25rem !important;padding-bottom: 1.25rem !important;}.vc_custom_1537427822073{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1537425379862{margin-top: 5px !important;margin-bottom: 5px !important;border-top-width: 1px !important;border-right-width: 1px !important;border-bottom-width: 1px !important;border-left-width: 1px !important;padding-top: 1.875rem !important;padding-bottom: 1.875rem !important;background-color: #e5e2db !important;border-left-color: #bca2bd !important;border-left-style: solid !important;border-right-color: #bca2bd !important;border-right-style: solid !important;border-top-color: #bca2bd !important;border-top-style: solid !important;border-bottom-color: #bca2bd !important;border-bottom-style: solid !important;}.vc_custom_1537407336938{margin-top: 5px !important;margin-bottom: 5px !important;border-top-width: 1px !important;border-right-width: 1px !important;border-bottom-width: 1px !important;border-left-width: 1px !important;padding-top: 1.875rem !important;padding-bottom: 1.875rem !important;background-color: #e5e2db !important;border-left-color: #bca2bd !important;border-left-style: solid !important;border-right-color: #bca2bd !important;border-right-style: solid !important;border-top-color: #bca2bd !important;border-top-style: solid !important;border-bottom-color: #bca2bd !important;border-bottom-style: solid !important;}.vc_custom_1537407342817{margin-top: 5px !important;margin-bottom: 5px !important;border-top-width: 1px !important;border-right-width: 1px !important;border-bottom-width: 1px !important;border-left-width: 1px !important;padding-top: 1.875rem !important;padding-bottom: 1.875rem !important;background-color: #e5e2db !important;border-left-color: #bca2bd !important;border-left-style: solid !important;border-right-color: #bca2bd !important;border-right-style: solid !important;border-top-color: #bca2bd !important;border-top-style: solid !important;border-bottom-color: #bca2bd !important;border-bottom-style: solid !important;}.vc_custom_1537407349279{margin-top: 5px !important;margin-bottom: 5px !important;border-top-width: 1px !important;border-right-width: 1px !important;border-bottom-width: 1px !important;border-left-width: 1px !important;padding-top: 1.875rem !important;padding-bottom: 1.875rem !important;background-color: #e5e2db !important;border-left-color: #bca2bd !important;border-left-style: solid !important;border-right-color: #bca2bd !important;border-right-style: solid !important;border-top-color: #bca2bd !important;border-top-style: solid !important;border-bottom-color: #bca2bd !important;border-bottom-style: solid !important;}.vc_custom_1537163532270{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1537168165670{margin-top: 3.125rem !important;margin-bottom: 0px !important;padding-top: 1.25rem !important;padding-bottom: 1.25rem !important;}.vc_custom_1537168170966{margin-top: 0px !important;margin-bottom: 3.125rem !important;padding-top: 1.25rem !important;padding-bottom: 1.25rem !important;}.vc_custom_1537427836371{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1537425234616{margin-top: 5px !important;margin-bottom: 5px !important;border-top-width: 1px !important;border-right-width: 1px !important;border-bottom-width: 1px !important;border-left-width: 1px !important;padding-top: 1.875rem !important;padding-bottom: 1.875rem !important;background-color: #e5e2db !important;border-left-color: #bca2bd !important;border-left-style: solid !important;border-right-color: #bca2bd !important;border-right-style: solid !important;border-top-color: #bca2bd !important;border-top-style: solid !important;border-bottom-color: #bca2bd !important;border-bottom-style: solid !important;}.vc_custom_1537425280445{margin-top: 5px !important;margin-bottom: 5px !important;border-top-width: 1px !important;border-right-width: 1px !important;border-bottom-width: 1px !important;border-left-width: 1px !important;padding-top: 1.875rem !important;padding-bottom: 1.875rem !important;background-color: #e5e2db !important;border-left-color: #bca2bd !important;border-left-style: solid !important;border-right-color: #bca2bd !important;border-right-style: solid !important;border-top-color: #bca2bd !important;border-top-style: solid !important;border-bottom-color: #bca2bd !important;border-bottom-style: solid !important;}.vc_custom_1537425345047{margin-top: 5px !important;margin-bottom: 5px !important;border-top-width: 1px !important;border-right-width: 1px !important;border-bottom-width: 1px !important;border-left-width: 1px !important;padding-top: 1.875rem !important;padding-bottom: 1.875rem !important;background-color: #e5e2db !important;border-left-color: #bca2bd !important;border-left-style: solid !important;border-right-color: #bca2bd !important;border-right-style: solid !important;border-top-color: #bca2bd !important;border-top-style: solid !important;border-bottom-color: #bca2bd !important;border-bottom-style: solid !important;}.vc_custom_1537425364080{margin-top: 5px !important;margin-bottom: 5px !important;border-top-width: 1px !important;border-right-width: 1px !important;border-bottom-width: 1px !important;border-left-width: 1px !important;padding-top: 1.875rem !important;padding-bottom: 1.875rem !important;background-color: #e5e2db !important;border-left-color: #bca2bd !important;border-left-style: solid !important;border-right-color: #bca2bd !important;border-right-style: solid !important;border-top-color: #bca2bd !important;border-top-style: solid !important;border-bottom-color: #bca2bd !important;border-bottom-style: solid !important;}.vc_custom_1537163565719{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1537168667696{margin-top: 6.25rem !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 3.125rem !important;}.vc_custom_1536891862929{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1537168681478{margin-top: 0px !important;margin-bottom: 6.25rem !important;padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1536891849189{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1536891844675{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1536807301750{margin-top: 0.625rem !important;margin-right: 0.625rem !important;margin-bottom: 0.625rem !important;margin-left: 0.625rem !important;}.vc_custom_1536807349559{margin: 0.625rem !important;}.vc_custom_1536807589950{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1537407494011{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 1.875rem !important;padding-right: 1.875rem !important;padding-bottom: 1.875rem !important;padding-left: 1.875rem !important;background-color: #e8dddd !important;}.vc_custom_1536807610327{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1537407773515{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 1.875rem !important;padding-right: 1.875rem !important;padding-bottom: 1.875rem !important;padding-left: 1.875rem !important;background-color: #e8dddd !important;}.vc_custom_1536807301750{margin-top: 0.625rem !important;margin-right: 0.625rem !important;margin-bottom: 0.625rem !important;margin-left: 0.625rem !important;}.vc_custom_1536807349559{margin: 0.625rem !important;}.vc_custom_1537407386616{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;background-color: #e5d3d1 !important;}.vc_custom_1537407778381{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 1.875rem !important;padding-right: 1.875rem !important;padding-bottom: 1.875rem !important;padding-left: 1.875rem !important;background-color: #e8dddd !important;}.vc_custom_1536806033161{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1537407784376{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 1.875rem !important;padding-right: 1.875rem !important;padding-bottom: 1.875rem !important;padding-left: 1.875rem !important;background-color: #e8dddd !important;}.vc_custom_1537163572163{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1537168214216{margin-top: 3.125rem !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 3.125rem !important;}.vc_custom_1537168225939{margin-top: 0px !important;margin-bottom: 3.125rem !important;padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1537168617376{margin-top: 0px !important;margin-bottom: 3.125rem !important;padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1536891849189{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1537189246968{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1536807301750{margin-top: 0.625rem !important;margin-right: 0.625rem !important;margin-bottom: 0.625rem !important;margin-left: 0.625rem !important;}.vc_custom_1536807349559{margin: 0.625rem !important;}.vc_custom_1536807589950{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1537407790638{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 1.875rem !important;padding-right: 1.875rem !important;padding-bottom: 1.875rem !important;padding-left: 1.875rem !important;background-color: #e8dddd !important;}.vc_custom_1536807610327{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1537407795833{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 1.875rem !important;padding-right: 1.875rem !important;padding-bottom: 1.875rem !important;padding-left: 1.875rem !important;background-color: #e8dddd !important;}.vc_custom_1536807301750{margin-top: 0.625rem !important;margin-right: 0.625rem !important;margin-bottom: 0.625rem !important;margin-left: 0.625rem !important;}.vc_custom_1536807349559{margin: 0.625rem !important;}.vc_custom_1536807597697{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1537407801252{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 1.875rem !important;padding-right: 1.875rem !important;padding-bottom: 1.875rem !important;padding-left: 1.875rem !important;background-color: #e8dddd !important;}.vc_custom_1536806033161{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1537407807321{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 1.875rem !important;padding-right: 1.875rem !important;padding-bottom: 1.875rem !important;padding-left: 1.875rem !important;background-color: #e8dddd !important;}.vc_custom_1536908044634{margin-top: 0px !important;margin-right: 0px !important;margin-bottom: 0px !important;margin-left: 0px !important;padding-top: 0px !important;padding-right: 0px !important;padding-bottom: 0px !important;padding-left: 0px !important;}.vc_custom_1537166998228{margin-top: 0px !important;margin-right: 0px !important;margin-bottom: 0px !important;margin-left: 0px !important;padding-top: 6.25rem !important;padding-right: 0px !important;padding-bottom: 6.25rem !important;padding-left: 0px !important;background-image: url(http://playdata.io/academy/wp-content/uploads/2018/09/플레이데이터.jpg?id=7634) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1536908050856{margin-top: 0px !important;margin-right: 0px !important;margin-bottom: 0px !important;margin-left: 0px !important;padding-top: 0px !important;padding-right: 0px !important;padding-bottom: 0px !important;padding-left: 0px !important;}.vc_custom_1536908063329{margin-top: 0px !important;margin-right: 0px !important;margin-bottom: 0px !important;margin-left: 0px !important;padding-top: 0px !important;padding-right: 0px !important;padding-bottom: 0px !important;padding-left: 0px !important;}.vc_custom_1537345977269{margin-top: 0px !important;margin-right: 0px !important;margin-bottom: 0px !important;margin-left: 0px !important;padding-top: 0px !important;padding-right: 0px !important;padding-bottom: 0px !important;padding-left: 0px !important;}.vc_custom_1536908153377{margin-top: 0px !important;margin-right: 0px !important;margin-bottom: 0px !important;margin-left: 0px !important;padding-top: 0px !important;padding-right: 0px !important;padding-bottom: 0px !important;padding-left: 0px !important;}.vc_custom_1537168508581{margin-top: 0px !important;margin-right: 0px !important;margin-bottom: 0px !important;margin-left: 0px !important;padding-top: 0px !important;padding-right: 0px !important;padding-bottom: 0px !important;padding-left: 0px !important;background-image: url(http://playdata.io/academy/wp-content/uploads/2018/09/플레이데이터소개_배경.jpg?id=7859) !important;}.vc_custom_1536908224643{margin-top: 0px !important;margin-right: 0px !important;margin-bottom: 0px !important;margin-left: 0px !important;padding-top: 0px !important;padding-right: 0px !important;padding-bottom: 0px !important;padding-left: 0px !important;}.vc_custom_1537168520275{margin-top: 3.125rem !important;margin-right: 0px !important;margin-bottom: 0px !important;margin-left: 0px !important;padding-top: 1.25rem !important;padding-right: 0px !important;padding-bottom: 1.25rem !important;padding-left: 0px !important;}.vc_custom_1537425156217{margin-top: 0px !important;margin-right: 0px !important;margin-bottom: 3.125rem !important;margin-left: 0px !important;padding-top: 0px !important;padding-right: 0px !important;padding-bottom: 0px !important;padding-left: 0px !important;}.vc_custom_1537163598171{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1537167152214{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 6.25rem !important;padding-bottom: 0.625rem !important;}.vc_custom_1537167199718{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0.625rem !important;padding-bottom: 1.875rem !important;}.vc_custom_1536909935088{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1536909386689{border-left-width: 0.625rem !important;padding-left: 1.25rem !important;border-left-color: #001c58 !important;border-left-style: solid !important;}.vc_custom_1536909935088{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1537164297215{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1537167092977{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 3.125rem !important;padding-bottom: 0.625rem !important;}.vc_custom_1537168288492{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1536909935088{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1536909386689{border-left-width: 0.625rem !important;padding-left: 1.25rem !important;border-left-color: #001c58 !important;border-left-style: solid !important;}.vc_custom_1536909935088{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1537189352716{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1537189355995{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}</style><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+<body class="page-template-default page page-id-8023 page-child parent-pageid-18 the7-core-ver-1.12.0 tribe-no-js disabled-hover-icons dt-responsive-on accent-gradient srcset-enabled btn-flat custom-btn-color custom-btn-hover-color bold-icons floating-mobile-menu-icon top-header first-switch-logo-left first-switch-menu-right second-switch-logo-left second-switch-menu-right right-mobile-menu layzr-loading-on popup-message-style dt-fa-compatibility the7-ver-6.5.1.1 wpb-js-composer js-comp-ver-5.5.2 vc_responsive outlined-portfolio-icons album-minuatures-style-2">
+	
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5RCW3NX"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --><!-- The7 6.5.1.1 -->
+<div id="load" class="spinner-loader">
+	<div class="load-wrap"></div>
+</div>
+<div id="page">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+<div class="masthead inline-header right full-height shadow-decoration small-mobile-menu-icon mobile-menu-icon-bg-on" role="banner">
+
+			<div class="top-bar line-content top-bar-empty">
+			<div class="top-bar-bg" ></div>
+			<div class="mini-widgets left-widgets"></div>			<div class="mini-widgets right-widgets"></div>		</div>
+
+	<header class="header-bar">
+
+						<div class="branding">
+					<div id="site-title" class="assistive-text">대한민국 최고의 IT 교육기관</div>
+					<div id="site-description" class="assistive-text">엔코아 아카데미, 4차산업혁명, 빅데이터, 증강현실, IOT</div>
+					<a href="http://playdata.io/academy/"><img class=" preload-me" src="http://playdata.io/academy/wp-content/uploads/2018/04/logo_380x116_1.png" srcset="http://playdata.io/academy/wp-content/uploads/2018/04/logo_380x116_1.png 380w" width="190" height="58"   sizes="190px" alt="대한민국 최고의 IT 교육기관" /></a>				</div>
+		<ul id="primary-menu" class="main-nav underline-decoration l-to-r-line outside-item-remove-margin" role="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-25 first"><a href='http://playdata.io/academy/jobsearch' data-level='1'><span class="menu-item-text"><span class="menu-text">취업교육과정</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-288"><a href='http://playdata.io/academy/working' data-level='1'><span class="menu-item-text"><span class="menu-text">재직자교육과정</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24"><a href='http://playdata.io/academy/notice' data-level='1'><span class="menu-item-text"><span class="menu-text">공지사항</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1351"><a href='http://playdata.io/academy/q-a' data-level='1'><span class="menu-item-text"><span class="menu-text">교육과정문의</span></span></a></li> </ul>
+		
+	</header>
+
+</div><div class='dt-close-mobile-menu-icon'><span></span></div>
+<div class='dt-mobile-header'>
+	<ul id="mobile-menu" class="mobile-main-nav" role="menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-25 first"><a href='http://playdata.io/academy/jobsearch' data-level='1'><span class="menu-item-text"><span class="menu-text">취업교육과정</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-288"><a href='http://playdata.io/academy/working' data-level='1'><span class="menu-item-text"><span class="menu-text">재직자교육과정</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24"><a href='http://playdata.io/academy/notice' data-level='1'><span class="menu-item-text"><span class="menu-text">공지사항</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1351"><a href='http://playdata.io/academy/q-a' data-level='1'><span class="menu-item-text"><span class="menu-text">교육과정문의</span></span></a></li> 	</ul>
+	<div class='mobile-mini-widgets-in-menu'></div>
+</div>
+
+
+<div id="main" class="sidebar-none sidebar-divider-vertical"  >
+
+	
+    <div class="main-gradient"></div>
+    <div class="wf-wrap">
+    <div class="wf-container-main">
+
+	
+
+
+    <div id="content" class="content" role="main">
+
+		<div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid vc_custom_1536659790460 vc_row-has-fill vc_row-no-padding"><div class="wpb_column vc_column_container vc_col-sm-12 vc_hidden-sm vc_hidden-xs"><div class="vc_column-inner vc_custom_1536905915045"><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_left">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="1920" height="1232" src="http://playdata.io/academy/wp-content/uploads/2018/09/상단-1.png" class="vc_single_image-img attachment-full" alt="빅데이터 플랫폼 상단 pc" srcset="http://playdata.io/academy/wp-content/uploads/2018/09/상단-1.png 1920w, http://playdata.io/academy/wp-content/uploads/2018/09/상단-1-300x193.png 300w, http://playdata.io/academy/wp-content/uploads/2018/09/상단-1-768x493.png 768w, http://playdata.io/academy/wp-content/uploads/2018/09/상단-1-1024x657.png 1024w" sizes="(max-width: 1920px) 100vw, 1920px"  data-dt-location="http://playdata.io/academy/jobsearch/bigdata_flatform26/%ec%83%81%eb%8b%a8-2" /></div>
+		</figure>
+	</div>
+</div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid vc_custom_1536659790460 vc_row-has-fill vc_row-no-padding"><div class="wpb_column vc_column_container vc_col-sm-12 vc_hidden-lg vc_hidden-md"><div class="vc_column-inner vc_custom_1537143298031"><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_center  vc_custom_1537326919005">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="600" height="1022" src="http://playdata.io/academy/wp-content/uploads/2018/09/상단-3.png" class="vc_single_image-img attachment-full" alt="빅데이터 플랫폼 상단 mobile" srcset="http://playdata.io/academy/wp-content/uploads/2018/09/상단-3.png 600w, http://playdata.io/academy/wp-content/uploads/2018/09/상단-3-176x300.png 176w" sizes="(max-width: 600px) 100vw, 600px"  data-dt-location="http://playdata.io/academy/jobsearch/bigdata_flatform26/%ec%83%81%eb%8b%a8-4" /></div>
+		</figure>
+	</div>
+</div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1537163856004 vc_row-has-fill"><div class="wpb_column vc_column_container vc_col-sm-12 vc_hidden-sm vc_hidden-xs"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1543382848336"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner vc_custom_1543382856717"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  vc_custom_1543382955043" >
+		<div class="wpb_wrapper">
+			<p style="text-align: center;"><span style="font-size: 40px;"><strong style="color: #ffffff;">신청 마감된 강의입니다.</strong></span></p>
+
+		</div>
+	</div>
+</div></div></div></div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1543383031819 vc_row-has-fill"><div class="wpb_column vc_column_container vc_col-sm-12 vc_hidden-lg vc_hidden-md"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1543382848336"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner vc_custom_1543382856717"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  vc_custom_1543383050254" >
+		<div class="wpb_wrapper">
+			<p style="text-align: center;"><span style="font-size: 30px;"><strong style="color: #ffffff;">신청 마감된<br />
+강의입니다.</strong></span></p>
+
+		</div>
+	</div>
+</div></div></div></div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1537164534262 vc_row-has-fill vc_row-o-equal-height vc_row-flex"><div class="wpb_column vc_column_container vc_col-sm-12 vc_hidden-sm vc_hidden-xs"><div class="vc_column-inner vc_custom_1537424551430"><div class="wpb_wrapper"><div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1537346137481"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html vc_custom_1537346103293" >
+		<div class="wpb_wrapper">
+				<h2 class="introduceTitle">
+		<strong>빅데이터 플랫폼 및 정보시스템 전문가 양성과정 소개</strong>
+	</h2>
+		</div>
+	</div>
+</div></div></div></div><div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1537164558663"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html" >
+		<div class="wpb_wrapper">
+			<p class="introduceText1">
+		<strong>본 교육은 빅데이터 플랫폼 전문가를 양성하는 과정입니다.</strong>
+	</p>
+
+	<p class="introduceText1-1">
+		수강생은 Hadoop, Spark 등을 이용해 빅데이터 플랫폼을 설계 및 구축하고,<br>
+		빅데이터를 분산처리하는 법에 대해 배우게 됩니다.<br>
+		또한 팀별 프로젝트를 진행하며 빅데이터 분석과 관련된 모든 과정을 실제로 경험합니다.<br>
+		<br>
+	</p>
+
+
+	<p class="introduceText1">
+		<strong>빅데이터 플랫폼이란?</strong>
+	</p>
+
+	<p class="introduceText1-1">
+		일반적으로 데이터가 db에 저장되어 있으면 SQL 쿼리를 작성한 후 엑셀로 추출하면 됩니다.<br>
+		하지만 데이터의 양이 상상하기 어려울 정도로 큰 경우 위와 같은 방식으로 데이터를 추출하면 시간이 너무나 오래 걸립니다.<br>
+	</p>
+	<p class="introduceText1-1">
+		대용량 데이터를 추출하기 위해 필요한 인프라가 바로 빅데이터 플랫폼입니다.<br>
+		Hadoop과 Spark는 빅데이터 플랫폼을 구축하는 데 사용하는 오픈소스 빅데이터 프레임워크로,<br>
+		여러 개의 컴퓨터를 하나로 묶어 대용량 데이터를 분산 처리하는 역할을 합니다. 
+	</p>	
+		</div>
+	</div>
+</div></div></div></div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1537164534262 vc_row-has-fill vc_row-o-equal-height vc_row-flex"><div class="wpb_column vc_column_container vc_col-sm-12 vc_hidden-lg vc_hidden-md"><div class="vc_column-inner vc_custom_1537424563039"><div class="wpb_wrapper"><div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1537346137481"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html vc_custom_1537424587838" >
+		<div class="wpb_wrapper">
+				<h2 class="introduceTitle">
+		<strong>빅데이터 플랫폼<br>및 정보시스템<br>전문가 양성과정<br>소개</strong>
+	</h2>
+		</div>
+	</div>
+</div></div></div></div><div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1537164558663"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html" >
+		<div class="wpb_wrapper">
+			<p class="introduceText1">
+		<strong>본 교육은 빅데이터 플랫폼 전문가를 양성하는 과정입니다.</strong>
+	</p>
+
+	<p class="introduceText1-1">
+		수강생은 Hadoop, Spark 등을 이용해 빅데이터 플랫폼을 설계 및 구축하고,<br>
+		빅데이터를 분산처리하는 법에 대해 배우게 됩니다.<br>
+		또한 팀별 프로젝트를 진행하며 빅데이터 분석과 관련된 모든 과정을 실제로 경험합니다.<br>
+		<br>
+	</p>
+
+
+	<p class="introduceText1">
+		<strong>빅데이터 플랫폼이란?</strong>
+	</p>
+
+	<p class="introduceText1-1">
+		일반적으로 데이터가 db에 저장되어 있으면 SQL 쿼리를 작성한 후 엑셀로 추출하면 됩니다.<br>
+		하지만 데이터의 양이 상상하기 어려울 정도로 큰 경우 위와 같은 방식으로 데이터를 추출하면 시간이 너무나 오래 걸립니다.<br>
+	</p>
+	<p class="introduceText1-1">
+		대용량 데이터를 추출하기 위해 필요한 인프라가 바로 빅데이터 플랫폼입니다.<br>
+		Hadoop과 Spark는 빅데이터 플랫폼을 구축하는 데 사용하는 오픈소스 빅데이터 프레임워크로,<br>
+		여러 개의 컴퓨터를 하나로 묶어 대용량 데이터를 분산 처리하는 역할을 합니다. 
+	</p>	
+		</div>
+	</div>
+</div></div></div></div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1537164534262 vc_row-has-fill vc_row-o-equal-height vc_row-flex"><div class="wpb_column vc_column_container vc_col-sm-12 vc_hidden-sm vc_hidden-xs"><div class="vc_column-inner vc_custom_1537424613216"><div class="wpb_wrapper"><div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1537164558663"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html vc_custom_1537257260190" >
+		<div class="wpb_wrapper">
+				<h2 class="qnaTitle">
+		<strong>저도 빅데이터 사이언스 분야로 진출할 수 있을까요?</strong>
+	</h2>
+		</div>
+	</div>
+
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html" >
+		<div class="wpb_wrapper">
+			<p class="qnaText1">
+		<strong>네, 여러분도 할 수 있습니다.</strong>
+	</p>
+	
+	<p class="qnaText1-1">
+		여러 권의 프로그래밍 도서를 집필한 전문 강사님이<br>
+		여러분께 프로그래밍의 기초와 빅데이터 플랫폼 설계 및  구축에 대해 체계적으로 알려드립니다.</p>
+		<p class="qnaText1-1">
+		아래와 같은 생각을 하는 분들에게 이 과정을 추천합니다.<br><br>
+	</p>
+
+	<p class="qnaText2">
+		<strong>&#183; 데이터 업계에서 일하고 싶어서 혼자 공부했는데 한계를 느꼈어요.</strong><br>
+		Hadoop과 Spark는 독학하기 쉽지 않습니다.<br>
+		그런데 국내에는 전문적으로 가르치는 곳이 거의 없죠.<br>
+		본 수업을 통해 빅데이터 플랫폼에 대해 체계적으로 배워보세요.<br>
+		<br>
+	</p>
+	
+	<p class="qnaText2">
+		<strong>&#183; 데이터 분석을 공부했는데 재미있었습니다. 데이터와 관련된 모든 과정을 깊이 있게 공부하고 싶어요.</strong><br>
+		최근 빅데이터가 각광받으면서 데이터 분석을 공부하는 분이 많습니다.<br>
+		하지만 분석에 사용하는 정제된 빅데이터를 어떻게 수집하고 저장하고 처리하는지 아는 분은 많지 않습니다.<br>
+		본 수업에서 데이터 엔지니어링을 배우고 빅데이터 사이언스 분야로 진출하세요. <br>
+		<br>
+	</p>
+
+	<p class="qnaText2">
+		<strong>&#183; 초보자이지만 빅데이터 사이언스 직군으로 취업하고 싶습니다. 정말 최선을 다하겠습니다.</strong><br>
+		본 과정은 프로그래밍 기초부터 빅데이터 플랫폼까지 가르칩니다.<br>
+		이 모든 것을 7개월 안에 배운다는 건 벅찬 일이지만, 불가능하지는 않습니다!<br>
+		확고한 의지가 있고 본인이 정말 최선을 다할 수 있다면 수업을 신청해주세요.<br>
+		최선을 다해 도와드리겠습니다.<br>
+		<br>
+	</p>
+		</div>
+	</div>
+</div></div></div></div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1537164534262 vc_row-has-fill vc_row-o-equal-height vc_row-flex"><div class="wpb_column vc_column_container vc_col-sm-12 vc_hidden-lg vc_hidden-md"><div class="vc_column-inner vc_custom_1537424619115"><div class="wpb_wrapper"><div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1537164558663"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html vc_custom_1537424650073" >
+		<div class="wpb_wrapper">
+				<h2 class="qnaTitle">
+		<strong>저도<br>빅데이터 사이언스<br>분야로 진출할 수<br>있을까요?</strong>
+	</h2>
+		</div>
+	</div>
+
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html" >
+		<div class="wpb_wrapper">
+			<p class="qnaText1">
+		<strong>네,<br>여러분도<br>할 수 있습니다.</strong>
+	</p>
+	
+	<p class="qnaText1-1">
+		여러 권의 프로그래밍 도서를 집필한 전문 강사님이<br>
+		여러분께 프로그래밍의 기초와 빅데이터 플랫폼 설계 및  구축에 대해 체계적으로 알려드립니다.</p>
+		<p class="qnaText1-1">
+		아래와 같은 생각을 하는 분들에게 이 과정을 추천합니다.<br><br>
+	</p>
+
+	<p class="qnaText2">
+		<strong>&#183; 데이터 업계에서 일하고 싶어서 혼자 공부했는데 한계를 느꼈어요.</strong><br>
+		Hadoop과 Spark는 독학하기 쉽지 않습니다.<br>
+		그런데 국내에는 전문적으로 가르치는 곳이 거의 없죠.<br>
+		본 수업을 통해 빅데이터 플랫폼에 대해 체계적으로 배워보세요.<br>
+		<br>
+	</p>
+	
+	<p class="qnaText2">
+		<strong>&#183; 데이터 분석을 공부했는데 재미있었습니다. 데이터와 관련된 모든 과정을 깊이 있게 공부하고 싶어요.</strong><br>
+		최근 빅데이터가 각광받으면서 데이터 분석을 공부하는 분이 많습니다.<br>
+		하지만 분석에 사용하는 정제된 빅데이터를 어떻게 수집하고 저장하고 처리하는지 아는 분은 많지 않습니다.<br>
+		본 수업에서 데이터 엔지니어링을 배우고 빅데이터 사이언스 분야로 진출하세요. <br>
+		<br>
+	</p>
+
+	<p class="qnaText2">
+		<strong>&#183; 초보자이지만 빅데이터 사이언스 직군으로 취업하고 싶습니다. 정말 최선을 다하겠습니다.</strong><br>
+		본 과정은 프로그래밍 기초부터 빅데이터 플랫폼까지 가르칩니다.<br>
+		이 모든 것을 7개월 안에 배운다는 건 벅찬 일이지만, 불가능하지는 않습니다!<br>
+		확고한 의지가 있고 본인이 정말 최선을 다할 수 있다면 수업을 신청해주세요.<br>
+		최선을 다해 도와드리겠습니다.<br>
+		<br>
+	</p>
+		</div>
+	</div>
+</div></div></div></div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1537164627716 vc_row-has-fill"><div class="wpb_column vc_column_container vc_col-sm-12 vc_hidden-sm vc_hidden-xs"><div class="vc_column-inner vc_custom_1537162977098"><div class="wpb_wrapper"><div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1537165325073"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  vc_custom_1537257300584" >
+		<div class="wpb_wrapper">
+			<h2 id="allINTitle">7개월 동안 빅데이터만 생각하세요</h2>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element  vc_custom_1536891185168" >
+		<div class="wpb_wrapper">
+			<p class="text center">여러분이 배움에만 몰두할 수 있도록 모든 준비를 해두었습니다.<br />
+여러분은 해내고야 말겠다는 <strong>‘미친 의지력’</strong> 하나만 가져오세요.</p>
+
+		</div>
+	</div>
+</div></div></div></div><div class="vc_row wpb_row vc_inner vc_row-fluid vc_row-o-equal-height vc_row-o-content-middle vc_row-flex"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner vc_custom_1536689507413"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  vc_custom_1536689289824" >
+		<div class="wpb_wrapper">
+			<p><img class="wp-image-7637 size-full aligncenter" src="http://playdata.io/academy/wp-content/uploads/2018/09/체크.png" alt="체크" width="50" height="50" /></p>
+<p class="supportText1">교육비 전액 지원</p>
+
+		</div>
+	</div>
+</div></div></div><div class="boxheight wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner vc_custom_1536689514245"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  vc_custom_1536689297841" >
+		<div class="wpb_wrapper">
+			<p><img class="wp-image-7637 size-full aligncenter" src="http://playdata.io/academy/wp-content/uploads/2018/09/체크.png" alt="체크" width="50" height="50" /></p>
+<p class="supportText1">전 과목 교재 무상 제공</p>
+
+		</div>
+	</div>
+</div></div></div></div><div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1537165375617 vc_row-o-equal-height vc_row-o-content-middle vc_row-flex"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner vc_custom_1536689522952"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  vc_custom_1536689316000" >
+		<div class="wpb_wrapper">
+			<p><img class="wp-image-7637 size-full aligncenter" src="http://playdata.io/academy/wp-content/uploads/2018/09/체크.png" alt="체크" width="50" height="50" /></p>
+<p class="supportText1">교육훈련비 최대 416,000원 지원</p>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-has-fill"><div class="vc_column-inner vc_custom_1536689531703"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  vc_custom_1536689804089" >
+		<div class="wpb_wrapper">
+			<p><img class="wp-image-7637 size-full aligncenter" src="http://playdata.io/academy/wp-content/uploads/2018/09/체크.png" alt="체크" width="50" height="50" /></p>
+<p class="supportText1">교육에 필요한 모든 장비 및 시설 지원</p>
+<p class="supportText2">노트북, 마우스, 개인사물함, 자습 가능한 카페테리아,<br />
+팀프로젝트를 위한 TV 등</p>
+
+		</div>
+	</div>
+</div></div></div></div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1537165240160 vc_row-has-fill"><div class="wpb_column vc_column_container vc_col-sm-12 vc_hidden-lg vc_hidden-md"><div class="vc_column-inner vc_custom_1537162988564"><div class="wpb_wrapper"><div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1537165231082"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  vc_custom_1537422671050" >
+		<div class="wpb_wrapper">
+			<h2 id="allINTitle">7개월 동안<br />
+개발만<br />
+생각하세요</h2>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element  vc_custom_1537189042931" >
+		<div class="wpb_wrapper">
+			<p class="text center">여러분이 배움에만 몰두할 수 있도록<br />
+모든 준비를 해두었습니다.<br />
+여러분은 해내고야 말겠다는<br />
+<strong>‘미친 의지력’</strong> 하나만 가져오세요.</p>
+
+		</div>
+	</div>
+</div></div></div></div><div class="vc_row wpb_row vc_inner vc_row-fluid vc_row-o-equal-height vc_row-o-content-middle vc_row-flex"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner vc_custom_1536689507413"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  vc_custom_1536689289824" >
+		<div class="wpb_wrapper">
+			<p><img class="wp-image-7637 size-full aligncenter" src="http://playdata.io/academy/wp-content/uploads/2018/09/체크.png" alt="체크" width="50" height="50" /></p>
+<p class="supportText1">교육비 전액 지원</p>
+
+		</div>
+	</div>
+</div></div></div><div class="boxheight wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner vc_custom_1536689514245"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  vc_custom_1536689297841" >
+		<div class="wpb_wrapper">
+			<p><img class="wp-image-7637 size-full aligncenter" src="http://playdata.io/academy/wp-content/uploads/2018/09/체크.png" alt="체크" width="50" height="50" /></p>
+<p class="supportText1">전 과목 교재 무상 제공</p>
+
+		</div>
+	</div>
+</div></div></div></div><div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1537165405013 vc_row-o-equal-height vc_row-o-content-middle vc_row-flex"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner vc_custom_1536689522952"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  vc_custom_1537189054491" >
+		<div class="wpb_wrapper">
+			<p><img class="wp-image-7637 size-full aligncenter" src="http://playdata.io/academy/wp-content/uploads/2018/09/체크.png" alt="체크" width="50" height="50" /></p>
+<p class="supportText1">교육훈련비<br />
+최대 416,000원 지원</p>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-has-fill"><div class="vc_column-inner vc_custom_1536689531703"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  vc_custom_1537190600040" >
+		<div class="wpb_wrapper">
+			<p><img class="wp-image-7637 size-full aligncenter" src="http://playdata.io/academy/wp-content/uploads/2018/09/체크.png" alt="체크" width="50" height="50" /></p>
+<p class="supportText1">교육에 필요한<br />
+모든 장비 및 시설 지원</p>
+<p class="supportText2">노트북, 마우스, 개인사물함,<br />
+자습 가능한 카페테리아,<br />
+팀프로젝트를 위한 TV 등</p>
+
+		</div>
+	</div>
+</div></div></div></div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1537346619102 vc_row-has-fill"><div class="wpb_column vc_column_container vc_col-sm-12 vc_hidden-sm vc_hidden-xs"><div class="vc_column-inner vc_custom_1537163365814"><div class="wpb_wrapper"><div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1537164759068"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  vc_custom_1536891380591" >
+		<div class="wpb_wrapper">
+			<h2 id="curriculumTitle">커리큘럼</h2>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element  vc_custom_1537318942136" >
+		<div class="wpb_wrapper">
+			<p class="text center">본 수업은 여러분을 빅데이터 전문가로 만드는 것을 목표로 합니다.<br />
+여러분은 7개월 동안 정규 커리큘럼과 플레이데이터만의 특별한 특강을 통해<br />
+<strong>빅데이터의 A부터 Z까지 배우게 됩니다.</strong></p>
+
+		</div>
+	</div>
+</div></div></div></div><div id="table" class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1537164781558"><div class="wpb_column vc_column_container vc_col-sm-12 vc_hidden-sm vc_hidden-xs"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html vc_custom_1539673290386" >
+		<div class="wpb_wrapper">
+			<!-- 커리큘럼 표 PC ver -->
+	<script>
+      jQuery(document).ready(function($) {
+        $(".details_v1").hide();
+        $('.show-details_v1').click(function() {
+          $(this).nextUntil(".show-details_v1").slideToggle(100);
+        });
+      });
+    </script>
+
+	<!-- 커리큘럼 표 PC ver -->
+	<table id="curriculum">
+		<!-- webLecture 1 PC ver 시작 -->
+		<tr>
+			<td class="webLecture" rowspan="5">정규<br>커리<br>큘럼</td>
+			<td class="contents">
+				<!-- curriculum2 -->
+				<table id="curriculum2" cellspacing="0">
+					<tr class="show-details_v1">
+        				<td class="sectionTitle" colspan="2">
+            				&or; <u>STEP1</u>&nbsp;&nbsp;프로그래밍 기초<br>
+							<p class="stepMargin">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java 기초 프로그래밍</span>
+						</td>
+      				</tr>
+
+      				<tr class="show-details_v1">
+        				<td class="width1" valign=top>
+          					<p class="text2">&#45; 기본 개발 환경 구축</p>
+          					<p class="text2">&#45; 기본 문법</p>
+          					<p class="text2">&#45; 언어 특성</p>
+          					<p class="text2">&#45; 라이브러리 활용</p>
+				        </td>
+
+				        <td class="width1" valign=top>
+							<p class="text2">&#45; 운영 체제 기초</p>
+				        	<p class="text2">&#45; 네트워크 기초</p>
+          					<p class="text2">&#45; 애플리케이션 배포 환경</p>
+				        	<p class="text2">&#45; 애플리케이션 테스트 수행</p>
+				        </td>
+      				</tr>
+				</table>
+				<!-- curriculum2 끝 -->
+			</td>
+		</tr>
+		<!-- webLecture 1 PC ver 끝 -->
+
+		<!-- webLecture 2 PC ver 시작 -->
+		<tr>
+			<td class="contents">
+				<table id="curriculum2" cellspacing="0">
+					<tr class="show-details_v1">
+						<td class="sectionTitle" colspan="2">
+            				&or; <u>STEP2</u>&nbsp;&nbsp;데이터베이스 구축<br>
+							<p class="stepMargin">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;데이터베이스와 SQL</span>
+						</td>
+      				</tr>
+
+      				<tr class="show-details_v1">
+        				<td class="width1" valign=top>
+          					<p class="text2">&#45; 데이터베이스 구현 및 설계</p>
+          					<p class="text2">&#45; PL/SQL 구문과 PL/SQL 활용</p>
+				        </td>
+
+				        <td class="width1" valign=top>
+          					<p class="text2">&#45; 데이터 모델링을 이용한 아키텍처 분석</p>
+				        	<p class="text2">&#45; UML (Unified Modeling Language) 구현</p>
+				        </td>
+      				</tr>
+				</table>
+			</td>
+		</tr>
+		<!-- webLecture 2 PC ver 끝 -->
+
+		<!-- webLecture 3 PC ver 시작 -->
+		<tr>
+			<td class="contents">
+				<table id="curriculum2" cellspacing="0">
+
+					<tr class="show-details_v1">
+						<td class="sectionTitle" colspan="2">
+            				&or; <u>STEP3</u>&nbsp;&nbsp;웹 어플리케이션 구현<br>
+							<p class="stepMargin">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HTML5, CSS3, Javascript, JSP/Servlet, Spring Framework</span>
+						</td>
+      				</tr>
+      		
+      				<tr class="details_v1">
+        				<td class="width1" valign=top>
+          					<p class="text2">&#45; 웹페이지 UI 설계 및 구현</p>
+          					<p class="text2">&#45; 웹 개발환경 구축</p>
+          					<p class="text2">&#45; 공통 모듈 구현</p>
+				        </td>
+
+				        <td class="width1" valign=top>
+				        	<p class="text2">&#45; 서버 프로그램 구현</p>
+				        	<p class="text2">&#45; MVC 배치 모델을 활용한 배치 프로세스 구현</p>
+				        </td>
+      				</tr>
+				</table>
+			</td>
+		</tr>
+		<!-- webLecture 3 PC ver 끝 -->
+
+		<!-- webLecture 4 PC ver 시작 -->
+		<tr>
+			<td class="contents">
+				<table id="curriculum2" cellspacing="0">
+					<tr class="show-details_v1">
+						<td class="sectionTitle" colspan="2">
+            				&or; <u>STEP4</u>&nbsp;&nbsp;빅데이터 플랫폼 설계 및 구축<br>
+							<p class="stepMargin">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python, Linux, Hadoop, Spark</span>
+						</td>
+      				</tr>
+
+      				<tr class="details_v1">
+        				<td class="width" valign=top colspan="2">
+          					<p class="text2">&#45; 빅 데이터 플랫폼 구축( 가상머신으로 클러스터 구축 )</p>
+          					<p class="text2">&#45; 하둡 Eco System(Pig,Hive, Flum)을 이용한 빅데이터 분석 연구</p>
+          					<p class="text2">&#45; Nosql을 구축과 MapReduce 아키텍쳐를 이용하여 데이터 병렬처리</p>
+          					<p class="text2">&#45; MapReduce 아키텍쳐 병렬처리 및 개념과 활용</p>
+				        	<p class="text2">&#45; Mongo Db를 활용한 No-Sql Sharding-ReplicaSet</p>
+				        	<p class="text2">&#45; Python lib를 이용한 쉘 Control</p>
+				        </td>
+      				</tr>
+				</table>
+			</td>
+		</tr>
+		<!-- webLecture 4 PC ver 끝 -->
+
+		<!-- webLecture 5 PC ver 시작 -->
+		<tr>
+			<td class="contents">
+				<table id="curriculum2" cellspacing="0">
+					<tr class="show-details_v1">
+						<td class="sectionTitle" colspan="2">
+            				&or; <u>STEP5</u>&nbsp;&nbsp;빅데이터 수집 저장 처리 분석<br>
+							<p class="stepMargin">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python, Linux, Hadoop, Spark</span>
+						</td>
+      				</tr>
+
+      				<tr class="details_v1">
+        				<td class="width" valign=top colspan="2">
+          					<p class="text2">&#45; Spark를 활용한 분석 정의 / 분석 마스터 플랜 /데이터 분석 개요 /데이터 마트 구현</p>
+          					<p class="text2">&#45; 빅데이터 이해와 가치 영향과 비즈니스 모델 및 위기 요인과 통제 방안</p>
+          					<p class="text2">&#45; 정형 데이터 마이닝를 활용한 분류, 예측, 군집, 연관 분석 시뮬레이션 및 최적화 활용</p>
+				        </td>
+      				</tr>
+				</table>
+			</td>
+		</tr>
+
+		<!-- webLecture 5 끝 -->
+
+		<!-- 화살표 시작-->
+		<tr>
+			<td colspan="2" class="arrow"> </td>
+		</tr>
+		<!-- 화살표 끝 -->
+
+		<!-- 프로젝트 시작 -->
+		<tr>
+			<td class="projectLecture">프로<br>젝트</td>
+			<td class="contents">
+				<table id="curriculum2" cellspacing="0">
+					<tr class="show-details_v1">
+						<td class="sectionTitle" colspan="2">
+            				&or; <u>FINAL</u>&nbsp;&nbsp;3번의 프로젝트 & DEMODAY<br>
+						</td>
+      				</tr>
+
+      				<tr class="show-details_v1">
+        				<td class="text" colspan="2">
+        					수업기간 중 1,2차, 최종 프로젝트를 진행합니다.
+				        </td>
+      				</tr>
+				
+					<tr class="show-details_v1">
+        				<td class="width" valign=top>
+        					<p class="text2">중간 프로젝트 &#45; 웹 서비스 개발</p>
+        					<p class="text2">최종 프로젝트 &#45; 빅데이터 분석 플랫폼을 활용한 비즈니스 서비스 개발</p>
+        					<p class="text2">DEMODAY &#45; 프로젝트 발표 / 기업 인사담당자 & 현업 개발자의 평가와 피드백</p>
+				        </td>
+      				</tr>
+				</table>
+			</td>
+		</tr>
+		<!-- 프로젝트 끝 -->
+	</table>
+	<!-- 커리큘럼 표 PC ver 끝  -->
+		</div>
+	</div>
+</div></div></div></div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1537346630813 vc_row-has-fill"><div class="wpb_column vc_column_container vc_col-sm-12 vc_hidden-lg vc_hidden-md"><div class="vc_column-inner vc_custom_1537167739019"><div class="wpb_wrapper"><div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1537167744775"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  vc_custom_1537170275359" >
+		<div class="wpb_wrapper">
+			<h2 id="curriculumTitle" style="font-size: 2.5rem;">커리큘럼</h2>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element  vc_custom_1537318929388" >
+		<div class="wpb_wrapper">
+			<p class="text center">본 수업은 여러분을 빅데이터 전문가로 만드는 것을 목표로 합니다.<br />
+여러분은 7개월 동안 정규 커리큘럼과 플레이데이터만의 특별한 특강을 통해<br />
+<strong>빅데이터의 A부터 Z까지 배우게 됩니다.</strong></p>
+
+		</div>
+	</div>
+</div></div></div></div><div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1537168017606"><div class="wpb_column vc_column_container vc_col-sm-12 vc_hidden-lg vc_hidden-md"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html vc_custom_1539673316829" >
+		<div class="wpb_wrapper">
+			<!-- 커리큘럼 표 Mobile ver -->
+	<script>
+      jQuery(document).ready(function($) {
+        $(".details_v1_m").hide();
+        $('.show-details_v1_m').click(function() {
+          $(this).nextUntil(".show-details_v1_m").slideToggle(100);
+        });
+      });
+    </script>
+
+	<!-- 커리큘럼 표 Mobile ver -->
+	<table id="curriculum_m">
+		<!-- webLecture 1 Mobile ver 시작 -->
+		<tr>
+			<td class="webLecture_m" rowspan="5">정규<br>커리<br>큘럼</td>
+			<td class="contents_m">
+				<!-- curriculum2 -->
+				<table id="curriculum2_m" cellspacing="0">
+      			    <tr class="show-details_v1_m">
+        				<td class="textTitle_m" colspan="2">
+            				<span>&or; <em>STEP 1</em></span><br>
+            				<p class="stepMargin_m">프로그래밍 기초<br>
+							Java 기초 프로그래밍</p>
+						</td>
+      				</tr>
+
+      				<tr class="show-details_v1_m">
+        				<td class="width" valign=top>
+          					<p class="textList_m">&#45; 기본 개발 환경 구축</p>
+          					<p class="textList_m">&#45; 기본 문법</p>
+          					<p class="textList_m">&#45; 언어 특성</p>
+          					<p class="textList_m">&#45; 라이브러리 활용</p>
+				        	<p class="textList_m">&#45; 운영 체제 기초</p>
+				        	<p class="textList_m">&#45; 네트워크 기초</p>
+          					<p class="textList_m">&#45; 애플리케이션 배포 환경</p>
+				        	<p class="textList_m">&#45; 애플리케이션 테스트 수행</p>
+				        </td>
+      				</tr>
+				</table>
+				<!-- curriculum2 끝 -->
+			</td>
+		</tr>
+		<!-- webLecture 1 Mobile ver 끝 -->
+
+		<!-- webLecture 2 Mobile ver 시작 -->
+		<tr>
+			<td class="contents_m">
+				<table id="curriculum2_m" cellspacing="0">
+      			    <tr class="show-details_v1_m">
+      			    	<td class="textTitle_m" colspan="2">
+            				<span>&or; <em>STEP 2</em></span><br>
+            				<p class="stepMargin_m">데이터베이스 구축<br>
+							데이터베이스와 SQL</p>
+						</td>
+      				</tr>
+
+      				<tr class="show-details_v1_m">
+        				<td class="width" valign=top>
+          					<p class="textList_m">&#45; 데이터베이스 구현 및 설계</p>
+          					<p class="textList_m">&#45; PL/SQL 구문과 PL/SQL 활용</p>
+          					<p class="textList_m">&#45; 데이터 모델링(data modeling)를 이용한 아키텍처 분석</p>
+          					<p class="textList_m">&#45; UML (Unified Modeling Language) 구현</p>
+				        </td>
+      				</tr>
+				</table>
+			</td>
+		</tr>
+		<!-- webLecture 2 Mobile ver 끝 -->
+
+		<!-- webLecture 3 Mobile ver 시작 -->
+		<tr>
+			<td class="contents_m">
+				<table id="curriculum2_m" cellspacing="0">
+      			    <tr class="show-details_v1_m">
+        				<td class="textTitle_m" colspan="2">
+            				<span>&or; <em>STEP 3</em></span><br>
+            				<p class="stepMargin_m">웹 어플리케이션 구현<br>
+							HTML5, CSS3, Javascript, JSP/Servlet, Spring Framework</p>
+						</td>
+      				</tr>
+      		
+      				<tr class="details_v1_m">
+        				<td class="width" valign=top>
+          					<p class="textList_m">&#45; UI 설계 및 구현</p>
+          					<p class="textList_m">&#45; 웹 개발환경 구축</p>
+          					<p class="textList_m">&#45; 공통 모듈 구현</p>
+				        	<p class="textList_m">&#45; 서버 프로그램 구현</p>
+				        	<p class="textList_m">&#45; MVC 배치 모델을 활용한 배치 프로세스 구축</p>
+				        </td>
+      				</tr>
+				</table>
+			</td>
+		</tr>
+		<!-- webLecture 3 Mobile ver 끝 -->
+
+		<!-- webLecture 4 Mobile ver 시작 -->
+		<tr>
+			<td class="contents_m">
+				<table id="curriculum2_m" cellspacing="0">
+      			    <tr class="show-details_v1_m">
+        				<td class="textTitle_m" colspan="2">
+            				<span>&or; <em>STEP 4</em></span><br>
+            				<p class="stepMargin_m">빅데이터 플랫폼 설계 및 구축<br>
+            				Python, Linux, Hadoop, Spark</p>
+						</td>
+      				</tr>
+
+      				<tr class="details_v1_m">
+        				<td class="width" valign=top>
+          					<p class="textList_m">&#45; 빅 데이터 플랫폼 구축( 가상머신으로 클러스터 구축 )</p>
+          					<p class="textList_m">&#45; 하둡 Eco System(Pig,Hive, Flum)을 이용한 빅데이터 분석 연구</p>
+          					<p class="textList_m">&#45; Nosql을 구축과 MapReduce 아키텍쳐를 이용하여 데이터 병렬처리</p>
+          					<p class="textList_m">&#45; MapReduce 아키텍쳐 병렬처리 및 개념과 활용</p>
+				        	<p class="textList_m">&#45; Mongo Db를 활용한 No-Sql Sharding-ReplicaSet</p>
+				        	<p class="textList_m">&#45; Python lib를 이용한 쉘 Control</p>
+				        </td>
+      				</tr>
+				</table>
+			</td>
+		</tr>
+		<!-- webLecture 4 Mobile ver 끝 -->
+
+		<!-- webLecture 5 Mobile ver 시작 -->
+		<tr>
+			<td class="contents_m">
+				<table id="curriculum2_m" cellspacing="0">
+					<tr class="show-details_v1_m">
+        				<td class="textTitle_m" colspan="2">
+            				<span>&or; <em>STEP 5</em></span><br>
+            				<p class="stepMargin_m">빅데이터 수집 저장 처리 분석<br>
+            					Python, Linux, Hadoop, Spark
+            				</p>
+						</td>
+      				</tr>
+
+      				<tr class="details_v1_m">
+        				<td class="width" valign=top>
+          					<p class="textList_m">&#45; Spark를 활용한 분석 정의Spark를 활용한 분석 정의 / 분석 마스터 플랜 / 데이터 분석 개요 / 데이터 마트 구현</p>
+          					<p class="textList_m">&#45; 빅데이터 이해와 가치 영향과 비즈니스 모델 및 위기 요인과 통제 방안</p>
+          					<p class="textList_m">&#45; 정형 데이터 마이닝를 활용한 분류, 예측, 군집, 연관 분석 시뮬레이션 및 최적화 활용</p>
+				        </td>
+      				</tr>
+				</table>
+			</td>
+		</tr>
+
+		<!-- webLecture 5 끝 -->
+
+		<!-- 화살표 시작-->
+		<tr>
+			<td colspan="2" class="arrow_m"> </td>
+		</tr>
+		<!-- 화살표 끝 -->
+
+		<!-- 프로젝트 시작 -->
+		<tr>
+			<td class="projectLecture_m">프로<br>젝트</td>
+			<td class="contents_m">
+				<table id="curriculum2_m" cellspacing="0">
+					<tr class="show-details_v1_m">
+        				<td class="textTitle_m" colspan="2">
+            				<span>&or; <em>FINAL</em></span><br>
+            				<p class="stepMargin_m">3번의 프로젝트<br>
+							& DEMODAY</p>
+						</td>
+      				</tr>
+
+      				<tr class="show-details_v1_m">
+        				<td class="text" colspan="2">
+        					수업기간 중 1,2차, 최종 프로젝트를 진행합니다.
+				        </td>
+      				</tr>
+				
+					<tr class="show-details_v1_m">
+        				<td class="width" valign=top>
+        					<p class="textList_m">중간 프로젝트 &#45; 웹 서비스 개발</p>
+        					<p class="textList_m">최종 프로젝트 &#45; 빅데이터 분석 플랫폼을 활용한 비즈니스 서비스 개발</p>
+        					<p class="textList_m">DEMODAY &#45; 프로젝트 발표 / 기업 인사담당자 & 현업 개발자의 평가와 피드백</p>
+				        </td>
+      				</tr>
+				</table>
+			</td>
+		</tr>
+		<!-- 프로젝트 끝 -->
+	</table>
+	<!-- 커리큘럼 표 Mobile ver 끝  -->
+		</div>
+	</div>
+</div></div></div></div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1537346639880 vc_row-has-fill"><div class="text_section wpb_column vc_column_container vc_col-sm-12 vc_hidden-sm vc_hidden-xs"><div class="vc_column-inner vc_custom_1537163415300"><div class="wpb_wrapper"><div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1537165029487"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  vc_custom_1537189172033" >
+		<div class="wpb_wrapper">
+			<h2 id="output" class="center">수료생들의 프로젝트</h2>
+
+		</div>
+	</div>
+</div></div></div></div><div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1537165033797"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_left">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="1783" height="797" src="http://playdata.io/academy/wp-content/uploads/2018/10/SELC_NEW.gif" class="vc_single_image-img attachment-full" alt=""  data-dt-location="http://playdata.io/academy/selc_new" /></div>
+		</figure>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element  vc_custom_1540452853702" >
+		<div class="wpb_wrapper">
+			<p>프로젝트명 : Self Creator<br />
+기획의도 : 자기 개발 지원, 스터디, 학원 등의 정보 제공<br />
+과정명 : 빅데이터 엔지니어 과정 2기</p>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_left">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="1783" height="797" src="http://playdata.io/academy/wp-content/uploads/2018/10/꾸미루미NEW.gif" class="vc_single_image-img attachment-full" alt=""  data-dt-location="http://playdata.io/academy/%ea%be%b8%eb%af%b8%eb%a3%a8%eb%af%b8new" /></div>
+		</figure>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element  vc_custom_1540452738276" >
+		<div class="wpb_wrapper">
+			<p>프로젝트명 : 꾸미루미<br />
+기획의도 : 빅데이터 상권분석<br />
+과정명 : 빅데이터 엔지니어 과정 2기</p>
+
+		</div>
+	</div>
+</div></div></div></div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1537346646300 vc_row-has-fill"><div class="text_section wpb_column vc_column_container vc_col-sm-12 vc_hidden-lg vc_hidden-md"><div class="vc_column-inner vc_custom_1537163420982"><div class="wpb_wrapper"><div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1537165287651"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  vc_custom_1537189533507" >
+		<div class="wpb_wrapper">
+			<h2 id="output" class="center">수료생들의<br />
+프로젝트</h2>
+
+		</div>
+	</div>
+</div></div></div></div><div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1537165067028"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_left">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="1783" height="797" src="http://playdata.io/academy/wp-content/uploads/2018/10/SELC_NEW.gif" class="vc_single_image-img attachment-full" alt=""  data-dt-location="http://playdata.io/academy/selc_new" /></div>
+		</figure>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element  vc_custom_1540453449105" >
+		<div class="wpb_wrapper">
+			<p>프로젝트명 : Self Creator<br />
+기획의도 : 자기 개발 지원, 스터디, 학원 등의 정보 제공<br />
+과정명 : 빅데이터 엔지니어 과정 2기</p>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_left">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="1783" height="797" src="http://playdata.io/academy/wp-content/uploads/2018/10/꾸미루미NEW.gif" class="vc_single_image-img attachment-full" alt=""  data-dt-location="http://playdata.io/academy/%ea%be%b8%eb%af%b8%eb%a3%a8%eb%af%b8new" /></div>
+		</figure>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element  vc_custom_1540452751085" >
+		<div class="wpb_wrapper">
+			<p>프로젝트명 : 꾸미루미<br />
+기획의도 : 빅데이터 상권분석<br />
+과정명 : 빅데이터 엔지니어 과정 2기</p>
+
+		</div>
+	</div>
+</div></div></div></div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1537346655659 vc_row-has-fill"><div class="text_section wpb_column vc_column_container vc_col-sm-12 vc_hidden-sm vc_hidden-xs"><div class="vc_column-inner vc_custom_1537425895796"><div class="wpb_wrapper"><div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1537165084285"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner vc_custom_1536891583032"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  vc_custom_1537257340382" >
+		<div class="wpb_wrapper">
+			<h2 id="teacher_SubTitle">여러분을 빅데이터 전문가로 만들어주실</h2>
+<h2 id="teacher_Title">선생님을 소개합니다!</h2>
+
+		</div>
+	</div>
+</div></div></div></div><div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1537347301520 vc_row-has-fill vc_row-o-equal-height vc_row-o-content-middle vc_row-flex"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<h2 style="text-align: center;"><strong>김 영 아 강사님</strong></h2>
+
+		</div>
+	</div>
+</div></div></div></div><div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1537347306166 vc_row-has-fill vc_row-o-equal-height vc_row-o-content-top vc_row-flex"><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-has-fill"><div class="vc_column-inner vc_custom_1537347279363"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  vc_custom_1537425857511" >
+		<div class="wpb_wrapper">
+			<p class="sectionTitle" style="text-align: center;"><strong>주요 연구개발 및 강의 분야</strong></p>
+
+		</div>
+	</div>
+
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html vc_custom_1537345218757" >
+		<div class="wpb_wrapper">
+			<p class="text">
+		&#45; C, C++, C#, Java, ASP.net<br>
+		&#45; Bigdata Analytics<br>
+		&#45; TCP/IP Network<br>
+		&#45; Android App 개발<br>
+		&#45; 빅데이터 정보보안<br>
+		&#45; Python을 이용한 프로그램 개발
+	</p>
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-has-fill"><div class="vc_column-inner vc_custom_1537347284001"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  vc_custom_1537345866368" >
+		<div class="wpb_wrapper">
+			<p class="sectionTitle" style="text-align: center;"><strong>주요 강의</strong></p>
+
+		</div>
+	</div>
+
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html vc_custom_1537425412248" >
+		<div class="wpb_wrapper">
+			<p class="text">
+		&#45; 한국정보기술연구원 (kitri) 빅데이터 정보보안 강의<br>
+		&#45; SK C&C, 삼성 SDS, KTDS, 롯데정보통신, 한진정보통신 등에서 강의<br>
+		&#45; 덕성여자대학교, 영남대학교, 한성대학교, 부천대학 등에서 강의
+	</p>
+
+		</div>
+	</div>
+</div></div></div></div><div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1537345716312 vc_row-o-equal-height vc_row-o-content-middle vc_row-flex"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="gap" style="line-height: 100px; height: 100px;"></div></div></div></div></div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1537346655659 vc_row-has-fill"><div class="text_section wpb_column vc_column_container vc_col-sm-12 vc_hidden-lg vc_hidden-md"><div class="vc_column-inner vc_custom_1537425887547"><div class="wpb_wrapper"><div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1537165084285"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner vc_custom_1536891583032"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  vc_custom_1537257340382" >
+		<div class="wpb_wrapper">
+			<h2 id="teacher_SubTitle">여러분을 빅데이터 전문가로 만들어주실</h2>
+<h2 id="teacher_Title">선생님을 소개합니다!</h2>
+
+		</div>
+	</div>
+</div></div></div></div><div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1537347301520 vc_row-has-fill vc_row-o-equal-height vc_row-o-content-middle vc_row-flex"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<h2 style="text-align: center;"><strong>김 영 아 강사님</strong></h2>
+
+		</div>
+	</div>
+</div></div></div></div><div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1537347306166 vc_row-has-fill vc_row-o-equal-height vc_row-o-content-top vc_row-flex"><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-has-fill"><div class="vc_column-inner vc_custom_1537347279363"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  vc_custom_1537426066253" >
+		<div class="wpb_wrapper">
+			<p class="sectionTitle_m" style="text-align: center;">주요 연구개발 및 강의 분야</p>
+
+		</div>
+	</div>
+
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html vc_custom_1537345218757" >
+		<div class="wpb_wrapper">
+			<p class="text">
+		&#45; C, C++, C#, Java, ASP.net<br>
+		&#45; Bigdata Analytics<br>
+		&#45; TCP/IP Network<br>
+		&#45; Android App 개발<br>
+		&#45; 빅데이터 정보보안<br>
+		&#45; Python을 이용한 프로그램 개발
+	</p>
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-has-fill"><div class="vc_column-inner vc_custom_1537347284001"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  vc_custom_1537425914674" >
+		<div class="wpb_wrapper">
+			<p class="sectionTitle_m" style="text-align: center;"><strong>주요 강의</strong></p>
+
+		</div>
+	</div>
+
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html vc_custom_1537425412248" >
+		<div class="wpb_wrapper">
+			<p class="text">
+		&#45; 한국정보기술연구원 (kitri) 빅데이터 정보보안 강의<br>
+		&#45; SK C&C, 삼성 SDS, KTDS, 롯데정보통신, 한진정보통신 등에서 강의<br>
+		&#45; 덕성여자대학교, 영남대학교, 한성대학교, 부천대학 등에서 강의
+	</p>
+
+		</div>
+	</div>
+</div></div></div></div><div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1537345716312 vc_row-o-equal-height vc_row-o-content-middle vc_row-flex"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="gap" style="line-height: 50px; height: 50px;"></div></div></div></div></div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1537347317883 vc_row-has-fill"><div class="text_section wpb_column vc_column_container vc_col-sm-12 vc_hidden-sm vc_hidden-xs"><div class="vc_column-inner vc_custom_1537163527320"><div class="wpb_wrapper"><div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1537168135140"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  vc_custom_1537427822073" >
+		<div class="wpb_wrapper">
+			<h2 id="specialProgram_SubTitle">나를 더 특별한 빅데이터 전문가로 성장시켜 줄</h2>
+<h2 id="specialProgram_Title">플레이데이터만의 스페셜 프로그램!</h2>
+
+		</div>
+	</div>
+</div></div></div></div><div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1537168140736"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  vc_custom_1537425379862" >
+		<div class="wpb_wrapper">
+			<h5 class="specialProgram_Text"><strong>1. 비즈니스 기획 실무 특강</strong></h5>
+<p class="text center">모든 소프트웨어 개발의 시작은 &#8216;기획&#8217;입니다.<br />
+서비스 기획 실무자로부터 기획에 대해 배웁니다.</p>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element  vc_custom_1537407336938" >
+		<div class="wpb_wrapper">
+			<h5 class="specialProgram_Text"><strong>2. Github 특강</strong></h5>
+<p class="text center">소프트웨어 개발은 주로 팀 단위로 이루어지며,<br />
+여러 사람이 함께 소프트웨어를 개발하기 위해서는 소스코드의 형상관리가 필수입니다.<br />
+Github를 통해 소스코드 형상관리 방법에 대해 학습합니다.</p>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element  vc_custom_1537407342817" >
+		<div class="wpb_wrapper">
+			<h5 class="specialProgram_Text"><strong>3. Bootstrap 특강</strong></h5>
+<p class="text center">Backend 개발자도 기본적인 Frontend 스킬은 필수!<br />
+CSS Framework인 Bootstrap을 통해 좀 더 쉽고 빠르게<br />
+웹 화면을 구현하는 방법을 학습합니다.</p>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element  vc_custom_1537407349279" >
+		<div class="wpb_wrapper">
+			<h5 class="specialProgram_Text"><strong>4. Database 컨설팅 특강</strong></h5>
+<p class="text center">데이터 전문기업 엔코아의 컨설턴트가 데이터 모델링에 관한 실무 특강을 실시합니다.</p>
+
+		</div>
+	</div>
+</div></div></div></div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1537347324480 vc_row-has-fill"><div class="text_section wpb_column vc_column_container vc_col-sm-12 vc_hidden-lg vc_hidden-md"><div class="vc_column-inner vc_custom_1537163532270"><div class="wpb_wrapper"><div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1537168165670"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  vc_custom_1537427836371" >
+		<div class="wpb_wrapper">
+			<h2 id="specialProgram_SubTitle">나를 더 특별한<br />
+빅데이터 전문가로<br />
+성장시켜 줄</h2>
+<h2 id="specialProgram_Title">플레이데이터만의<br />
+스페셜 프로그램!</h2>
+
+		</div>
+	</div>
+</div></div></div></div><div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1537168170966"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  vc_custom_1537425234616" >
+		<div class="wpb_wrapper">
+			<h5 class="specialProgram_Text"><strong>1. 비즈니스 기획 실무 특강</strong></h5>
+<p class="text center">모든 소프트웨어 개발의 시작은<br />
+&#8216;기획&#8217;입니다.<br />
+서비스 기획 실무자로부터<br />
+기획에 대해 배웁니다.</p>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element  vc_custom_1537425280445" >
+		<div class="wpb_wrapper">
+			<h5 class="specialProgram_Text"><strong>2. Github 특강</strong></h5>
+<p class="text center">소프트웨어 개발은<br />
+주로 팀 단위로 진행됩니다.<br />
+여러 사람이 함께<br />
+소프트웨어를 개발하기 위해서는<br />
+소스코드의 형상관리가 필수입니다.<br />
+Github를 통해 소스코드<br />
+형상관리 방법에 대해 학습합니다.</p>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element  vc_custom_1537425345047" >
+		<div class="wpb_wrapper">
+			<h5 class="specialProgram_Text"><strong>3. Bootstrap 특강</strong></h5>
+<p class="text center">Backend 개발자도<br />
+기본적인 Frontend 스킬은 필수!<br />
+CSS Framework인 Bootstrap을 통해<br />
+좀 더 쉽고 빠르게<br />
+웹 화면을 구현하는 방법을<br />
+학습합니다.</p>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element  vc_custom_1537425364080" >
+		<div class="wpb_wrapper">
+			<h5 class="specialProgram_Text"><strong>4. Database 컨설팅 특강</strong></h5>
+<p class="text center">데이터 전문기업 엔코아의 컨설턴트가<br />
+데이터 모델링에 관한<br />
+실무 특강을 실시합니다.</p>
+
+		</div>
+	</div>
+</div></div></div></div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1537347333202 vc_row-has-fill"><div class="text_section wpb_column vc_column_container vc_col-sm-12 vc_hidden-sm vc_hidden-xs"><div class="vc_column-inner vc_custom_1537163565719"><div class="wpb_wrapper"><div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1537168667696"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner vc_custom_1536891849189"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  vc_custom_1536891844675" >
+		<div class="wpb_wrapper">
+			<p><!-- 취업지원 프로그램 시작 --></p>
+<h2 id="jobProgram_SubTitle">열정 있는 나를 어떻게 하면 잘 표현할 수 있을까?</h2>
+<h2 id="jobProgram_Title">플레이데이터만의 취업지원 프로그램!</h2>
+<p><!-- 취업지원 프로그램 끝 --></p>
+
+		</div>
+	</div>
+</div></div></div></div><div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1536891862929 vc_row-o-content-middle vc_row-flex"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner vc_custom_1536807301750"><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_center  vc_custom_1536807589950">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="580" height="380" src="http://playdata.io/academy/wp-content/uploads/2018/09/취업지원3.jpg" class="vc_single_image-img attachment-full" alt="프로젝트북 제작" srcset="http://playdata.io/academy/wp-content/uploads/2018/09/취업지원3.jpg 580w, http://playdata.io/academy/wp-content/uploads/2018/09/취업지원3-300x197.jpg 300w" sizes="(max-width: 580px) 100vw, 580px"  data-dt-location="http://playdata.io/academy/%ec%b7%a8%ec%97%85%ec%a7%80%ec%9b%903" /></div>
+		</figure>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element  vc_custom_1537407494011" >
+		<div class="wpb_wrapper">
+			<h5 class="jobSupport_Title">인재 추천</h5>
+<p class="text">우수 교육생에게 엔코아 협력사 및 연계 기업 채용 기회를 우선적으로 드립니다.</p>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner vc_custom_1536807349559"><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_center  vc_custom_1536807610327">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="580" height="380" src="http://playdata.io/academy/wp-content/uploads/2018/09/취업지원5.jpg" class="vc_single_image-img attachment-full" alt="기업 채용 설명회" srcset="http://playdata.io/academy/wp-content/uploads/2018/09/취업지원5.jpg 580w, http://playdata.io/academy/wp-content/uploads/2018/09/취업지원5-300x197.jpg 300w" sizes="(max-width: 580px) 100vw, 580px"  data-dt-location="http://playdata.io/academy/%ec%b7%a8%ec%97%85%ec%a7%80%ec%9b%905" /></div>
+		</figure>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element  vc_custom_1537407773515" >
+		<div class="wpb_wrapper">
+			<h5 class="jobSupport_Title">기업 채용 설명회</h5>
+<p class="text">기업 인사담당자에게 궁금한 점을 질문해보세요. 기업의 비전, 인재상, 분위기 등의 정보를 얻을 수 있습니다.</p>
+
+		</div>
+	</div>
+</div></div></div></div><div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1537168681478 vc_row-o-content-middle vc_row-flex"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner vc_custom_1536807301750"><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_center  vc_custom_1537407386616">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="580" height="380" src="http://playdata.io/academy/wp-content/uploads/2018/09/취업지원2.jpg" class="vc_single_image-img attachment-full" alt="데모데이" srcset="http://playdata.io/academy/wp-content/uploads/2018/09/취업지원2.jpg 580w, http://playdata.io/academy/wp-content/uploads/2018/09/취업지원2-300x197.jpg 300w" sizes="(max-width: 580px) 100vw, 580px"  data-dt-location="http://playdata.io/academy/%ec%b7%a8%ec%97%85%ec%a7%80%ec%9b%902" /></div>
+		</figure>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element  vc_custom_1537407778381" >
+		<div class="wpb_wrapper">
+			<h5 class="jobSupport_Title">데모데이</h5>
+<p class="text">현직 개발자와 인사담당자가 데모데이의 심사위원으로 참석해 여러분의 프로젝트를 평가하고 시상합니다.</p>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner vc_custom_1536807349559"><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_center  vc_custom_1536806033161">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="580" height="380" src="http://playdata.io/academy/wp-content/uploads/2018/09/취업지원1.jpg" class="vc_single_image-img attachment-full" alt="이력서컨설팅" srcset="http://playdata.io/academy/wp-content/uploads/2018/09/취업지원1.jpg 580w, http://playdata.io/academy/wp-content/uploads/2018/09/취업지원1-300x197.jpg 300w" sizes="(max-width: 580px) 100vw, 580px"  data-dt-location="http://playdata.io/academy/%ec%b7%a8%ec%97%85%ec%a7%80%ec%9b%901" /></div>
+		</figure>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element  vc_custom_1537407784376" >
+		<div class="wpb_wrapper">
+			<h5 class="jobSupport_Title">이력서 컨설팅</h5>
+<p id="jobSupport_Text" class="text">현업 인사담당자가 매력 있는 자소서를 쓰는 법, 면접 시 꼭 지켜야 할 주의 사항 등에 관해 특강을 진행합니다.</p>
+
+		</div>
+	</div>
+</div></div></div></div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1537347338983 vc_row-has-fill"><div class="text_section wpb_column vc_column_container vc_col-sm-12 vc_hidden-lg vc_hidden-md"><div class="vc_column-inner vc_custom_1537163572163"><div class="wpb_wrapper"><div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1537168214216"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner vc_custom_1536891849189"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  vc_custom_1537189246968" >
+		<div class="wpb_wrapper">
+			<p><!-- 취업지원 프로그램 시작 --></p>
+<h2 id="jobProgram_SubTitle">열정 있는 나를<br />
+어떻게 하면<br />
+잘 표현할 수 있을까?</h2>
+<h2 id="jobProgram_Title">플레이데이터만의<br />
+취업지원 프로그램!</h2>
+<p><!-- 취업지원 프로그램 끝 --></p>
+
+		</div>
+	</div>
+</div></div></div></div><div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1537168225939 vc_row-o-content-middle vc_row-flex"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner vc_custom_1536807301750"><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_center  vc_custom_1536807589950">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="580" height="380" src="http://playdata.io/academy/wp-content/uploads/2018/09/취업지원3.jpg" class="vc_single_image-img attachment-full" alt="프로젝트북 제작" srcset="http://playdata.io/academy/wp-content/uploads/2018/09/취업지원3.jpg 580w, http://playdata.io/academy/wp-content/uploads/2018/09/취업지원3-300x197.jpg 300w" sizes="(max-width: 580px) 100vw, 580px"  data-dt-location="http://playdata.io/academy/%ec%b7%a8%ec%97%85%ec%a7%80%ec%9b%903" /></div>
+		</figure>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element  vc_custom_1537407790638" >
+		<div class="wpb_wrapper">
+			<h5 class="jobSupport_Title">인재 추천</h5>
+<p class="text">우수 교육생에게 엔코아 협력사 및 연계 기업 채용 기회를 우선적으로 드립니다.</p>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner vc_custom_1536807349559"><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_center  vc_custom_1536807610327">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="580" height="380" src="http://playdata.io/academy/wp-content/uploads/2018/09/취업지원5.jpg" class="vc_single_image-img attachment-full" alt="기업 채용 설명회" srcset="http://playdata.io/academy/wp-content/uploads/2018/09/취업지원5.jpg 580w, http://playdata.io/academy/wp-content/uploads/2018/09/취업지원5-300x197.jpg 300w" sizes="(max-width: 580px) 100vw, 580px"  data-dt-location="http://playdata.io/academy/%ec%b7%a8%ec%97%85%ec%a7%80%ec%9b%905" /></div>
+		</figure>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element  vc_custom_1537407795833" >
+		<div class="wpb_wrapper">
+			<h5 class="jobSupport_Title">기업 채용 설명회</h5>
+<p class="text">기업 인사담당자에게 궁금한 점을 질문해보세요. 기업의 비전, 인재상, 분위기 등의 정보를 얻을 수 있습니다.</p>
+
+		</div>
+	</div>
+</div></div></div></div><div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1537168617376 vc_row-o-content-middle vc_row-flex"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner vc_custom_1536807301750"><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_center  vc_custom_1536807597697">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="580" height="380" src="http://playdata.io/academy/wp-content/uploads/2018/09/취업지원2.jpg" class="vc_single_image-img attachment-full" alt="데모데이" srcset="http://playdata.io/academy/wp-content/uploads/2018/09/취업지원2.jpg 580w, http://playdata.io/academy/wp-content/uploads/2018/09/취업지원2-300x197.jpg 300w" sizes="(max-width: 580px) 100vw, 580px"  data-dt-location="http://playdata.io/academy/%ec%b7%a8%ec%97%85%ec%a7%80%ec%9b%902" /></div>
+		</figure>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element  vc_custom_1537407801252" >
+		<div class="wpb_wrapper">
+			<h5 class="jobSupport_Title">데모데이</h5>
+<p class="text">현직 개발자와 인사담당자가 데모데이의 심사위원으로 참석해 여러분의 프로젝트를 평가하고 시상합니다.</p>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner vc_custom_1536807349559"><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_center  vc_custom_1536806033161">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="580" height="380" src="http://playdata.io/academy/wp-content/uploads/2018/09/취업지원1.jpg" class="vc_single_image-img attachment-full" alt="이력서컨설팅" srcset="http://playdata.io/academy/wp-content/uploads/2018/09/취업지원1.jpg 580w, http://playdata.io/academy/wp-content/uploads/2018/09/취업지원1-300x197.jpg 300w" sizes="(max-width: 580px) 100vw, 580px"  data-dt-location="http://playdata.io/academy/%ec%b7%a8%ec%97%85%ec%a7%80%ec%9b%901" /></div>
+		</figure>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element  vc_custom_1537407807321" >
+		<div class="wpb_wrapper">
+			<h5 class="jobSupport_Title">이력서 컨설팅</h5>
+<p id="jobSupport_Text" class="text">현업 인사담당자가 매력 있는 자소서를 쓰는 법, 면접 시 꼭 지켜야 할 주의 사항 등에 관해 특강을 진행합니다.</p>
+
+		</div>
+	</div>
+</div></div></div></div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1536908106146 vc_row-has-fill"><div class="text_section wpb_column vc_column_container vc_col-sm-12 vc_hidden-sm vc_hidden-xs"><div class="vc_column-inner vc_custom_1536908044634"><div class="wpb_wrapper"><div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1537166998228 vc_row-has-fill"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner vc_custom_1536908050856"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  vc_custom_1536908063329" >
+		<div class="wpb_wrapper">
+			<h2 id="promise_Title" class="center">플레이데이터의 약속</h2>
+
+		</div>
+	</div>
+
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html vc_custom_1537345977269" >
+		<div class="wpb_wrapper">
+			<p class="text center" id="white">
+		빅데이터 사이언스 분야로 진출하고 싶으신가요?<br>
+		그렇다면 본 과정을 신청해주세요.<br> 
+		<br>
+		<strong id="white">본 과정을 수강하시면<br>
+		빅데이터 분석의 핵심인 Hadoop, Spark 같은<br>
+		빅데이터 분석플랫폼에 대해 배우실 수 있습니다.</strong><br>
+		<br> 
+		7개월 동안 최선을 다해 공부에 열중할 수 있다면<br>
+		여러분은 빅데이터 전문가로 거듭날 수 있으실 겁니다.<br>
+		플레이데이터에서 당신의 커리어를 시작하세요!<br> 
+		<br>
+	</p>
+		</div>
+	</div>
+</div></div></div></div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1537168240209 vc_row-has-fill"><div class="text_section wpb_column vc_column_container vc_col-sm-12 vc_hidden-lg vc_hidden-md"><div class="vc_column-inner vc_custom_1536908153377"><div class="wpb_wrapper"><div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1537168508581 vc_row-has-fill"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner vc_custom_1536908224643"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  vc_custom_1537168520275" >
+		<div class="wpb_wrapper">
+			<h2 id="promise_Title" class="center">플레이데이터의 약속</h2>
+
+		</div>
+	</div>
+
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html vc_custom_1537425156217" >
+		<div class="wpb_wrapper">
+			<p class="text center" id="white">
+		빅데이터 사이언스 분야로<br>
+                진출하고 싶으신가요?<br>
+		그렇다면 본 과정을 신청해주세요.<br> 
+		<br>
+		<strong id="white">본 과정을 수강하시면<br>빅데이터 분석의 핵심인<br>Hadoop, Spark 같은<br>
+		빅데이터 분석플랫폼에 대해<br> 배우실 수 있습니다.</strong><br>
+		<br> 
+		7개월 동안 최선을 다해<br>공부에 열중할 수 있다면<br>
+		여러분은 빅데이터 전문가로<br>거듭날 수 있으실 겁니다.<br>
+		플레이데이터에서<br>당신의 커리어를 시작하세요!<br> 
+		<br>
+	</p>
+		</div>
+	</div>
+</div></div></div></div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1537167043289 vc_row-has-fill"><div class="wpb_column vc_column_container vc_col-sm-12 vc_hidden-sm vc_hidden-xs"><div class="vc_column-inner vc_custom_1537163598171"><div class="wpb_wrapper"><div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1537167152214"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner vc_custom_1536909935088"><div class="wpb_wrapper">
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html vc_custom_1536909386689" >
+		<div class="wpb_wrapper">
+			<h2 class="summery">
+		<strong>일정 및 문의안내</strong>
+	</h2>
+		</div>
+	</div>
+</div></div></div></div><div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1537167199718"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner vc_custom_1536909935088"><div class="wpb_wrapper">
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html" >
+		<div class="wpb_wrapper">
+			<p class="qnaText1">
+		<strong>교육일정</strong><br><br>
+		2018년 11월 26일 ~ 2019년 6월 27일<br>
+		월요일 ~ 금요일<br>
+                09:00 ~ 18:00<br><br>
+	</p>
+
+	<p class="qnaText1">
+		<strong>참고사항</strong><br><br>
+		본 교육 프로그램은 취업교육이므로,<br>
+		구직자 및 졸업 예정자만 수강할 수 있습니다.<br>
+                * 주차 지원은 불가하오니<br>
+                반드시 대중교통을 이용하여 주시기 바랍니다.<br> 
+	</p>
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html" >
+		<div class="wpb_wrapper">
+			<p class="qnaText1">
+		<strong>문의안내 </strong><br><br>
+		전화 02-754-7302<br>
+		메일 playdata@playdata.io<br>
+		카카오톡 @플레이데이터<br><br>
+	</p>
+
+	<p class="qnaText1">
+		<strong>교육비용</strong><br><br>
+		전액 무료<br>
+		매월 교육수당 최대 416,000원 지급 <br><br>
+	</p>
+		</div>
+	</div>
+</div></div></div></div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1537167082169 vc_row-has-fill"><div class="wpb_column vc_column_container vc_col-sm-12 vc_hidden-lg vc_hidden-md"><div class="vc_column-inner vc_custom_1537164297215"><div class="wpb_wrapper"><div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1537167092977"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner vc_custom_1536909935088"><div class="wpb_wrapper">
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html vc_custom_1536909386689" >
+		<div class="wpb_wrapper">
+			<h2 class="summery">
+		<strong>일정 및 문의안내</strong>
+	</h2>
+		</div>
+	</div>
+</div></div></div></div><div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1537168288492"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner vc_custom_1536909935088"><div class="wpb_wrapper">
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html" >
+		<div class="wpb_wrapper">
+			<p class="qnaText1">
+		<strong>교육일정</strong><br><br>
+		2018년 11월 26일 ~ 2019년 6월 27일<br>
+		매주 월요일 ~ 금요일<br>
+                09:00 ~ 18:00<br><br>
+	</p>
+
+	<p class="qnaText1">
+		<strong>참고사항</strong><br><br>
+		본 교육 프로그램은 취업교육이므로,<br>
+		구직자 및 졸업 예정자만 수강할 수 있습니다.<br>
+                * 주차 지원은 불가하오니<br>
+                반드시 대중교통을 이용하여 주시기 바랍니다.<br> 
+	</p>
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html" >
+		<div class="wpb_wrapper">
+			<p class="qnaText1">
+		<strong>문의안내 </strong><br><br>
+		전화 02-754-7302<br>
+		메일 playdata@playdata.io<br>
+		카카오톡 @플레이데이터<br><br>
+	</p>
+
+	<p class="qnaText1">
+		<strong>교육비용</strong><br><br>
+		전액 무료<br>
+		매월 교육수당 최대 416,000원 지급 <br><br>
+	</p>
+		</div>
+	</div>
+</div></div></div></div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div id="javascript code" class="vc_row wpb_row vc_row-fluid vc_custom_1537189350029"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner vc_custom_1537189352716"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  vc_custom_1537189355995" >
+		<div class="wpb_wrapper">
+			<p><script type="text/javascript">
+jQuery(window).on('scroll', function(){
+   	var currentPercentage = (jQuery(window).scrollTop() / (jQuery(document).outerHeight() - jQuery(window).height())) * 100;
+ 		jQuery('#i-am-progress-indicator').width(currentPercentage+'%');
+});
+</script></p>
+
+		</div>
+	</div>
+</div></div></div></div>
+
+    </div><!-- #content -->
+
+	
+
+
+			</div><!-- .wf-container -->
+		</div><!-- .wf-wrap -->
+	</div><!-- #main -->
+
+	
+
+	
+	<!-- !Footer -->
+	<footer id="footer" class="footer solid-bg">
+
+		
+			<div class="wf-wrap">
+				<div class="wf-container-footer">
+					<div class="wf-container">
+						<section id="presscore-contact-info-widget-2" class="widget widget_presscore-contact-info-widget wf-cell wf-2-4"><div class="widget-info">회사명 : (주)엔코아 
+&nbsp;&nbsp;&nbsp;대표이사 : 이화식    
+&nbsp;&nbsp;&nbsp;사업자 등록번호 : 229-81-30104
+<br>통신판매업신고번호 : 2017-서울서초-1653
+<br>TEL : +82-2-754-7302
+&nbsp;&nbsp;&nbsp; FAX : +82-2-754-7303
+&nbsp;&nbsp;&nbsp; E-mail : playdata@playdata.io<br>COPYRIGHT@EN-CORE GROUP. ALL RIGHT RESERVED
+<br>Playdata는 GDPR를 준수하며 EU와는 무관한 서비스를 제공하고 있습니다.<br>
+* 주차 지원은 불가하오니 반드시 대중교통을 이용하여 주시기 바랍니다.
+</div><ul class="contact-info"><li><a href="http://playdata.io/academy/protection">-개인정보취급방침-</a>&nbsp;&nbsp;&nbsp;
+<a href="http://playdata.io/academy/refund">-교습비 반환기준-</a></li></ul><div class="soc-ico"><p class="assistive-text">Find us on:</p><a title="Facebook" href="https://www.facebook.com/playdata.io" target="_blank" class="facebook"><span class="soc-font-icon"></span><span class="screen-reader-text">Facebook</span></a><a title="Mail" href="mailto:playdata@playdata.io" target="_top" class="mail"><span class="soc-font-icon"></span><span class="screen-reader-text">Mail</span></a><a title="Website" href="http://playdata.io" target="_blank" class="website"><span class="soc-font-icon"></span><span class="screen-reader-text">Website</span></a></div></section><section id="media_image-2" class="widget widget_media_image wf-cell wf-1-4"><a href="http://playdata.io"><img width="207" height="48" src="http://playdata.io/academy/wp-content/uploads/2017/09/play_data_white.png" class="image wp-image-1820  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" /></a></section><section id="media_image-3" class="widget widget_media_image wf-cell wf-1-4"><a href="http://en-core.com"><img width="207" height="50" src="http://playdata.io/academy/wp-content/uploads/2017/09/encore_logo_white.png" class="image wp-image-1821  attachment-207x50 size-207x50" alt="" style="max-width: 100%; height: auto;" /></a></section>					</div><!-- .wf-container -->
+				</div><!-- .wf-container-footer -->
+			</div><!-- .wf-wrap -->
+
+		
+	</footer><!-- #footer -->
+
+
+	<a href="#" class="scroll-top"><span class="screen-reader-text">Go to Top</span></a>
+
+</div><!-- #page -->
+
+
+
+		<script>
+		( function ( body ) {
+			'use strict';
+			body.className = body.className.replace( /\btribe-no-js\b/, 'tribe-js' );
+		} )( document.body );
+		</script>
+		<script> /* <![CDATA[ */var tribe_l10n_datatables = {"aria":{"sort_ascending":": activate to sort column ascending","sort_descending":": activate to sort column descending"},"length_menu":"Show _MENU_ entries","empty_table":"No data available in table","info":"Showing _START_ to _END_ of _TOTAL_ entries","info_empty":"Showing 0 to 0 of 0 entries","info_filtered":"(filtered from _MAX_ total entries)","zero_records":"No matching records found","search":"Search:","all_selected_text":"All items on this page were selected. ","select_all_link":"Select all pages","clear_selection":"Clear Selection.","pagination":{"all":"All","next":"Next","previous":"Previous"},"select":{"rows":{"0":"","_":": Selected %d rows","1":": Selected 1 row"}},"datepicker":{"dayNames":["\uc77c\uc694\uc77c","\uc6d4\uc694\uc77c","\ud654\uc694\uc77c","\uc218\uc694\uc77c","\ubaa9\uc694\uc77c","\uae08\uc694\uc77c","\ud1a0\uc694\uc77c"],"dayNamesShort":["\uc77c","\uc6d4","\ud654","\uc218","\ubaa9","\uae08","\ud1a0"],"dayNamesMin":["\uc77c","\uc6d4","\ud654","\uc218","\ubaa9","\uae08","\ud1a0"],"monthNames":["1\uc6d4","2\uc6d4","3\uc6d4","4\uc6d4","5\uc6d4","6\uc6d4","7\uc6d4","8\uc6d4","9\uc6d4","10\uc6d4","11\uc6d4","12\uc6d4"],"monthNamesShort":["1\uc6d4","2\uc6d4","3\uc6d4","4\uc6d4","5\uc6d4","6\uc6d4","7\uc6d4","8\uc6d4","9\uc6d4","10\uc6d4","11\uc6d4","12\uc6d4"],"monthNamesMin":["1\uc6d4","2\uc6d4","3\uc6d4","4\uc6d4","5\uc6d4","6\uc6d4","7\uc6d4","8\uc6d4","9\uc6d4","10\uc6d4","11\uc6d4","12\uc6d4"],"nextText":"Next","prevText":"Prev","currentText":"Today","closeText":"Done","today":"Today","clear":"Clear"}};var tribe_system_info = {"sysinfo_optin_nonce":"7c39840c8a","clipboard_btn_text":"Copy to clipboard","clipboard_copied_text":"System info copied","clipboard_fail_text":"Press \"Cmd + C\" to copy"};/* ]]> */ </script><script type="text/javascript">if(typeof(mb_urls)==="undefined"){var mb_urls = [];}; mb_urls["board_api"]			= "mb_board";mb_urls["comment_api"]			= "mb_comment";mb_urls["user_api"]			= "mb_user";mb_urls["heditor_api"]			= "mb_heditor";mb_urls["template_api"]			= "mb_template";mb_urls["custom_api"]			= "mb_custom";mb_urls["commerce_api"]			= "mb_commerce";</script><link rel='stylesheet' id='mb-business-sociallogin-css'  href='http://playdata.io/academy/wp-content/plugins/mangboard/plugins/sociallogin/css/style.css?ver=4.9.8' type='text/css' media='all' />
+<script type='text/javascript' src='http://playdata.io/academy/wp-content/themes/dt-the7/js/main.min.js?ver=6.5.1.1'></script>
+<script type='text/javascript' src='http://playdata.io/academy/wp-includes/js/jquery/jquery.form.min.js?ver=4.2.1'></script>
+<script type='text/javascript' src='http://playdata.io/academy/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://playdata.io/academy/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4'></script>
+<script type='text/javascript'>
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"\ub2eb\uae30","currentText":"\uc624\ub298","monthNames":["1\uc6d4","2\uc6d4","3\uc6d4","4\uc6d4","5\uc6d4","6\uc6d4","7\uc6d4","8\uc6d4","9\uc6d4","10\uc6d4","11\uc6d4","12\uc6d4"],"monthNamesShort":["1\uc6d4","2\uc6d4","3\uc6d4","4\uc6d4","5\uc6d4","6\uc6d4","7\uc6d4","8\uc6d4","9\uc6d4","10\uc6d4","11\uc6d4","12\uc6d4"],"nextText":"\ub2e4\uc74c","prevText":"\uc774\uc804","dayNames":["\uc77c\uc694\uc77c","\uc6d4\uc694\uc77c","\ud654\uc694\uc77c","\uc218\uc694\uc77c","\ubaa9\uc694\uc77c","\uae08\uc694\uc77c","\ud1a0\uc694\uc77c"],"dayNamesShort":["\uc77c","\uc6d4","\ud654","\uc218","\ubaa9","\uae08","\ud1a0"],"dayNamesMin":["\uc77c","\uc6d4","\ud654","\uc218","\ubaa9","\uae08","\ud1a0"],"dateFormat":"yy\ub144 MM d\uc77c","firstDay":0,"isRTL":false});});
+</script>
+<script type='text/javascript' src='http://playdata.io/academy/wp-content/plugins/google-calendar-events/assets/js/vendor/jquery.qtip.min.js?ver=3.1.19'></script>
+<script type='text/javascript' src='http://playdata.io/academy/wp-content/plugins/google-calendar-events/assets/js/vendor/moment.min.js?ver=3.1.19'></script>
+<script type='text/javascript' src='http://playdata.io/academy/wp-content/plugins/google-calendar-events/assets/js/vendor/moment-timezone-with-data.min.js?ver=3.1.19'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var simcal_default_calendar = {"ajax_url":"\/academy\/wp-admin\/admin-ajax.php","nonce":"40c61b4edd","locale":"ko_KR","text_dir":"ltr","months":{"full":["1\uc6d4","2\uc6d4","3\uc6d4","4\uc6d4","5\uc6d4","6\uc6d4","7\uc6d4","8\uc6d4","9\uc6d4","10\uc6d4","11\uc6d4","12\uc6d4"],"short":["1\uc6d4","2\uc6d4","3\uc6d4","4\uc6d4","5\uc6d4","6\uc6d4","7\uc6d4","8\uc6d4","9\uc6d4","10\uc6d4","11\uc6d4","12\uc6d4"]},"days":{"full":["\uc77c\uc694\uc77c","\uc6d4\uc694\uc77c","\ud654\uc694\uc77c","\uc218\uc694\uc77c","\ubaa9\uc694\uc77c","\uae08\uc694\uc77c","\ud1a0\uc694\uc77c"],"short":["\uc77c","\uc6d4","\ud654","\uc218","\ubaa9","\uae08","\ud1a0"]},"meridiem":{"AM":"\uc624\uc804","am":"\uc624\uc804","PM":"\uc624\ud6c4","pm":"\uc624\ud6c4"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://playdata.io/academy/wp-content/plugins/google-calendar-events/assets/js/default-calendar.min.js?ver=3.1.19'></script>
+<script type='text/javascript' src='http://playdata.io/academy/wp-content/plugins/dt-the7-core/assets/js/post-type.min.js?ver=6.5.1.1'></script>
+<script type='text/javascript' src='http://playdata.io/academy/wp-content/plugins/google-calendar-events/assets/js/vendor/imagesloaded.pkgd.min.js?ver=3.1.19'></script>
+<script type='text/javascript' src='http://playdata.io/academy/wp-includes/js/wp-embed.min.js?ver=4.9.8'></script>
+<script type='text/javascript' src='http://playdata.io/academy/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=5.5.2'></script>
+
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="pswp__bg"></div>
+    <div class="pswp__scroll-wrap">
+ 
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+ 
+        <div class="pswp__ui pswp__ui--hidden">
+            <div class="pswp__top-bar">
+                <div class="pswp__counter"></div>
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                      <div class="pswp__preloader__cut">
+                        <div class="pswp__preloader__donut"></div>
+                      </div>
+                    </div>
+                </div>
+            </div>
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div> 
+            </div>
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>
