@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+
+	<!-- Style setting -->
+	<style>
+		body {
+			background-color: #BCE9B7;
+			line-height: 2;
+		}
+		.box {
+			background-color: white;
+			margin: 5pt;
+			padding: 5pt;
+		}
+		#top {
+			height: 60pt;
+		}
+		#mid {
+			text-align: center;
+		}
+		#bot {
+			text-align: center;
+			font-size: 10pt;
+			color: grey;
+		}
+		button {
+			text-align: center;
+			color: white;
+			background-color: #98C593;
+			border: none;
+			padding: 5pt;
+			box-shadow: 1px 3px 5px grey;
+		}
+		button:hover {
+			color: green;
+		}
+		ul {
+			list-style-type: none;
+			float: right;
+		}
+		ul:after {
+			content:"";
+			display:block;
+			clear:both;
+		}
+		ul button {
+			width: 80pt;
+			font-size: 12pt;
+			margin: 5pt;
+		}
+		li {
+			display: inline;
+		}
+		#mid button {
+			width: 80pt;
+			height: 80pt;
+			margin: 5pt;
+			font-size: 1em;
+		}
+		h2 {
+			margin: 5pt;
+		}
+	</style>
+	
+	<!-- Header start -->
+	<head>
+		<meta charset="UTF-8">
+		<title>Main Page</title>
+	</head>
+	
+	<!-- Body start -->
+	<body>
+		<div class="box" id="top">
+			<!-- How can I order them rightly? -->
+			<ul>
+				<li><a href="/aboutme/index.html"><button>홈</button></a></li>
+				<li><a href="/aboutme/aboutme.html"><button>자기소개</button></a></li>
+				<li><a href="/aboutme/photo.html"><button>내사진</button></a></li>
+				<li><a href="/aboutme/today"><button>몇시에요</button></a></li>
+			</ul>
+		</div>
+		<div class="box" id="mid">
+			<h2>개발자, 이현</h2>
+			<p>
+				구로디지털단지에 서식 중인 지구인.<br>
+				개발자가 될 거에요.
+			</p>
+			<a href="/aboutme/aboutme.html"><button>자기소개</button></a>
+			<a href="/aboutme/photo.html"><button>내사진</button></a>
+			<br><br>
+			<img src="map.png">
+		</div>
+	</body>
+	
+	<!-- Footer start -->
+	<footer>
+		<div class="box" id="bot">
+			<p>
+				hisia@naver.com<br>
+				http://github.com/talysa7
+			</p>
+		</div>
+	</footer>
+</html>

@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+
+	<!-- Style setting -->
+	<style>
+		body {
+			background-color: #BCE9B7;
+			line-height: 2;
+		}
+		.box {
+			background-color: white;
+			margin: 5pt;
+			padding: 5pt;
+		}
+		#top {
+			height: 60pt;
+		}
+		#mid {
+			padding: 5pt 100pt 5pt 100pt;
+		}
+		#bot {
+			text-align: center;
+			font-size: 10pt;
+			color: grey;
+		}
+		button {
+			color: white;
+			background-color: #98C593;
+			border: none;
+			padding: 5pt;
+			box-shadow: 1px 3px 5px grey;
+		}
+		button:hover {
+			color: green;
+		}
+		ul {
+			list-style-type: none;
+			float: right;
+		}
+		ul:after {
+			content:"";
+			display:block;
+			clear:both;
+		}
+		ul button {
+			width: 80pt;
+			font-size: 12pt;
+			margin: 5pt;
+		}
+		li {
+			display: inline;
+		}
+		h2 {
+			margin: 5pt;
+		}
+	</style>
+	
+	<!-- Header start -->
+	<head>
+		<meta charset="UTF-8">
+		<title>About Me</title>
+	</head>
+	
+	<!-- Body start -->
+	<body>
+		<div class="box" id="top">
+			<!-- How can I order them rightly? -->
+			<ul>
+				<li><a href="/aboutme/index.html"><button>홈</button></a></li>
+				<li><a href="/aboutme/aboutme.html"><button>자기소개</button></a></li>
+				<li><a href="/aboutme/photo.html"><button>내사진</button></a></li>
+				<li><a href="/aboutme/today"><button>몇시에요</button></a></li>
+			</ul>
+		</div>
+		<div class="box" id="mid">
+			<h2>잘하는 것</h2>
+			<p>
+				정리정돈, 낯선 환경에 적응하기, 집중하기
+			</p>
+			<h2>나의 포트폴리오</h2>
+			<p>
+				<a href="https://github.com/Talysa7">Github ID : Talysa7</a>
+				<br>
+				그동안 공부한 내용들을 올려 놓았습니다.
+				java, javascript, html/css, python, hadoop, spark 등을 공부했습니다.
+			</p>
+			<h2>나의 최근 프로젝트</h2>
+			<p>
+				<a href="https://github.com/Talysa7/Web-Project-Travlers-second">웹 프로젝트 'Travelers'</a>
+				<br>
+				여행자들이 특정 지역에서 함께 여행할 동행자를 구할 수 있는 게시판 서비스입니다.
+				여행자들의 사진을 모아 보여주는 페이지, 사용자별로 선호할만한 여행지 추천 기능을 제공합니다.
+			</p>
+		</div>
+	</body>
+	
+	<!-- Footer start -->
+	<footer>
+		<div class="box" id="bot">
+			<p>
+				hisia@naver.com<br>
+				http://github.com/talysa7
+			</p>
+		</div>
+	</footer>
+</html>

@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+
+	<!-- Style setting -->
+	<style>
+		body {
+			background-color: #BCE9B7;
+			line-height: 2;
+		}
+		.box {
+			background-color: white;
+			margin: 5pt;
+			padding: 5pt;
+		}
+		#top {
+			height: 60pt;
+		}
+		#mid {
+			padding: 5pt 100pt 5pt 100pt;
+		}
+		#bot {
+			text-align: center;
+			font-size: 10pt;
+			color: grey;
+		}
+		img {
+			border: solid 3pt grey;
+			width: 100pt;
+			margin: 0pt 10pt 0pt 0pt;
+			float: left;
+		}
+		#mid p:after {
+			content:"";
+			display:block;
+			clear:both;
+		}
+		button {
+			color: white;
+			background-color: #98C593;
+			border: none;
+			padding: 5pt;
+			box-shadow: 1px 3px 5px grey;
+		}
+		button:hover {
+			color: green;
+		}
+		ul {
+			list-style-type: none;
+			float: right;
+		}
+		ul:after {
+			content:"";
+			display:block;
+			clear:both;
+		}
+		ul button {
+			width: 80pt;
+			font-size: 12pt;
+			margin: 5pt;
+		}
+		li {
+			display: inline;
+		}
+		hr {
+			color: grey;
+		}
+	</style>
+	
+	<!-- Header start -->
+	<head>
+		<meta charset="UTF-8">
+		<title>My Photo</title>
+	</head>
+	
+	<!-- Body start -->
+	<body>
+		<div class="box" id="top">
+			<!-- How can I order them rightly? -->
+			<ul>
+				<li><a href="/aboutme/index.html"><button>홈</button></a></li>
+				<li><a href="/aboutme/aboutme.html"><button>자기소개</button></a></li>
+				<li><a href="/aboutme/photo.html"><button>내사진</button></a></li>
+				<li><a href="/aboutme/today"><button>몇시에요</button></a></li>
+			</ul>
+		</div>
+		<div class="box" id="mid">
+			<p>
+				<img src="vietnam.jpg">
+				2018년 여름, 하롱베이에서<br><br>
+				Github 프로필 이미지로도 사용하고 있습니다.<br>
+				수많은 오토바이와 비 내리는 날의 콩카페, 아름다운 바다 풍경을 기억합니다.
+			</p>
+			<hr>
+			<p>
+				<img src="germany.jpg">
+				2017년 여름, 쾰른에서<br><br>
+				워킹홀리데이로 갔던 독일은 멋진 나라였습니다.<br>
+				그 곳에서 개발자로 일하고 싶습니다.
+			</p>
+		</div>
+	</body>
+	
+	<!-- Footer start -->
+	<footer>
+		<div class="box" id="bot">
+			<p>
+				hisia@naver.com<br>
+				http://github.com/talysa7
+			</p>
+		</div>
+	</footer>
+</html>
